@@ -1,0 +1,357 @@
+# Medium: less common words. Format: word|part of speech|definition
+harbor|noun|A sheltered area of water where ships can anchor safely.
+whisper|verb|To speak very softly, using your breath instead of your voice.
+wander|verb|To walk or move around slowly without a fixed purpose or direction.
+shiver|verb|To shake slightly because you are cold, frightened, or excited.
+meadow|noun|A field of grass and wildflowers.
+lantern|noun|A lamp with a protective frame, often carried by a handle.
+glimpse|noun|A brief or partial look at something.
+meander|verb|To follow a winding, wandering course.
+frugal|adjective|Careful not to waste money or resources.
+candid|adjective|Truthful and straightforward; frank.
+dwindle|verb|To become gradually smaller or fewer.
+summit|noun|The highest point of a hill or mountain.
+rustic|adjective|Simple and plain in a way typical of the countryside.
+ponder|verb|To think about something carefully for a while.
+vivid|adjective|Very bright, clear, or full of life.
+eager|adjective|Wanting very much to do or have something.
+abandon|verb|To leave someone or something behind and not come back.
+absorb|verb|To soak up a liquid or take in information.
+abundant|adjective|Existing in large amounts; plentiful.
+accurate|adjective|Correct and exact, without mistakes.
+achieve|verb|To succeed in doing something through effort.
+acquire|verb|To get or gain something.
+adapt|verb|To change in order to suit new conditions.
+admire|verb|To respect and approve of someone or something.
+advantage|noun|Something that puts you in a better position.
+adventure|noun|An exciting or unusual experience.
+advice|noun|A suggestion about what someone should do.
+agile|adjective|Able to move quickly and easily.
+alert|adjective|Watchful and quick to notice things.
+ancestor|noun|A person in your family who lived long before you.
+anchor|noun|A heavy metal object dropped from a ship to keep it in place.
+ancient|adjective|Belonging to the very distant past.
+anxious|adjective|Worried and nervous about something.
+apparent|adjective|Easy to see or understand; obvious.
+appetite|noun|The desire to eat.
+approach|verb|To come nearer to something.
+arrogant|adjective|Acting as if you are better or more important than others.
+assemble|verb|To gather together, or to put the parts of something together.
+assist|verb|To help someone.
+astonish|verb|To surprise someone greatly.
+attempt|verb|To try to do something, especially something difficult.
+avalanche|noun|A large mass of snow and ice sliding quickly down a mountain.
+awkward|adjective|Clumsy, or causing embarrassment.
+bargain|noun|Something bought for less than its usual price.
+barrier|noun|Something that blocks the way.
+beacon|noun|A light or fire used as a signal or warning.
+bewilder|verb|To confuse someone completely.
+blizzard|noun|A severe snowstorm with strong winds.
+blunder|noun|A careless or stupid mistake.
+boast|verb|To talk with too much pride about yourself.
+bold|adjective|Brave and willing to take risks.
+boulder|noun|A very large rock.
+boundary|noun|A line that marks the edge of an area.
+brittle|adjective|Hard but easily broken.
+bundle|noun|A number of things tied or wrapped together.
+burden|noun|A heavy load, or something difficult to deal with.
+cactus|noun|A desert plant with a thick stem and sharp spines.
+campaign|noun|A planned series of actions to achieve a goal.
+canyon|noun|A deep valley with steep sides, often with a river at the bottom.
+capable|adjective|Having the ability to do something.
+capture|verb|To catch and hold someone or something.
+caravan|noun|A group of people traveling together, often across a desert.
+cautious|adjective|Careful to avoid danger or mistakes.
+chaos|noun|Complete confusion and disorder.
+character|noun|A person in a story, or the qualities that make someone who they are.
+cherish|verb|To love and care for something deeply.
+circuit|noun|A path for electricity to flow, or a route that ends where it began.
+clumsy|adjective|Moving awkwardly and often dropping or knocking things.
+cluster|noun|A group of similar things close together.
+collapse|verb|To fall down suddenly.
+comet|noun|An icy object in space that develops a glowing tail near the sun.
+companion|noun|A person you spend time with or travel with.
+compass|noun|A device with a needle that points north.
+conceal|verb|To hide something.
+confident|adjective|Feeling sure of yourself and your abilities.
+confuse|verb|To make someone unable to think clearly.
+conquer|verb|To take control of a place by force, or to overcome a problem.
+consider|verb|To think carefully about something.
+constant|adjective|Happening all the time, or staying the same.
+content|adjective|Satisfied and happy.
+continent|noun|One of the seven large land masses of the Earth.
+convince|verb|To make someone believe something is true.
+courage|noun|The ability to do something frightening; bravery.
+coward|noun|A person who is not brave.
+crater|noun|A large bowl-shaped hole in the ground.
+creature|noun|A living being, especially an animal.
+crimson|adjective|Deep red.
+crisp|adjective|Firm, dry, and easily broken; or fresh and cool.
+crucial|adjective|Extremely important.
+cunning|adjective|Clever at tricking people.
+custom|noun|A traditional way of doing something.
+dazzle|verb|To blind briefly with bright light, or to amaze.
+debate|noun|A formal discussion in which people give opposing views.
+decay|verb|To rot or slowly break down.
+deceive|verb|To make someone believe something that is not true.
+declare|verb|To announce something clearly and officially.
+decline|verb|To refuse politely, or to become smaller or worse.
+defeat|verb|To win against someone in a contest or battle.
+defend|verb|To protect from attack.
+delicate|adjective|Easily broken or damaged; fine and fragile.
+delight|noun|Great pleasure.
+deny|verb|To say that something is not true.
+depart|verb|To leave, especially to begin a journey.
+descend|verb|To move downward.
+deserve|verb|To have earned something because of your actions.
+despair|noun|The complete loss of hope.
+destroy|verb|To damage something so badly that it no longer exists.
+determined|adjective|Having made a firm decision and not willing to give up.
+devour|verb|To eat something quickly and hungrily.
+dignity|noun|The quality of deserving respect.
+diligent|adjective|Working hard and carefully.
+disguise|noun|Clothes or makeup that hide who you really are.
+dismal|adjective|Gloomy and depressing.
+distant|adjective|Far away.
+dodge|verb|To move quickly to avoid something.
+drench|verb|To make completely wet.
+drowsy|adjective|Sleepy and finding it hard to stay awake.
+durable|adjective|Able to last a long time without breaking.
+eclipse|noun|The blocking of light from one object in space by another, such as the moon covering the sun.
+elegant|adjective|Graceful and stylish.
+embark|verb|To go onto a ship or plane, or to begin something new.
+embrace|verb|To hold someone closely in your arms.
+emerge|verb|To come out into view.
+encounter|verb|To meet someone or something unexpectedly.
+endure|verb|To suffer something difficult patiently.
+enormous|adjective|Extremely large.
+envy|noun|The feeling of wanting what someone else has.
+erupt|verb|To burst out suddenly, as lava from a volcano.
+essential|adjective|Absolutely necessary.
+evaporate|verb|To change from a liquid into a gas.
+exhausted|adjective|Extremely tired.
+expand|verb|To become larger.
+expedition|noun|A journey made for a special purpose, such as exploring.
+fable|noun|A short story, often with animals, that teaches a lesson.
+fabric|noun|Cloth made by weaving or knitting.
+faint|adjective|Not clear or strong; also feeling weak and dizzy.
+falcon|noun|A fast bird of prey with long pointed wings.
+famine|noun|A severe shortage of food in a region.
+fascinate|verb|To attract and hold someone's interest strongly.
+fatigue|noun|Extreme tiredness.
+feast|noun|A large, special meal.
+feeble|adjective|Very weak.
+ferocious|adjective|Fierce and violent.
+fiction|noun|Stories about imaginary people and events.
+fierce|adjective|Violent, intense, or aggressive.
+flexible|adjective|Able to bend easily, or able to change.
+flicker|verb|To shine unsteadily, going bright and dim.
+flourish|verb|To grow or develop well.
+fortress|noun|A large, strong building or place protected against attack.
+fortune|noun|Luck, or a large amount of money.
+fossil|noun|The remains or shape of an ancient plant or animal preserved in rock.
+fragile|adjective|Easily broken or damaged.
+fragrant|adjective|Having a pleasant smell.
+frantic|adjective|Wild with worry or fear; rushed and disorganized.
+frequent|adjective|Happening often.
+frontier|noun|The edge of settled land, or a border between countries.
+furious|adjective|Extremely angry.
+galaxy|noun|A huge group of stars, gas, and dust held together by gravity.
+gallant|adjective|Brave, or very polite and attentive.
+generous|adjective|Willing to give more than is expected.
+genius|noun|A person who is exceptionally intelligent or talented.
+glacier|noun|A huge, slow-moving mass of ice.
+gleam|verb|To shine softly.
+glimmer|noun|A faint, wavering light.
+gloomy|adjective|Dark, or sad and without hope.
+glorious|adjective|Wonderful and deserving great praise.
+gossip|noun|Casual talk about other people's private lives.
+graceful|adjective|Moving in a smooth and attractive way.
+grateful|adjective|Feeling or showing thanks.
+grumble|verb|To complain in a low, unhappy voice.
+guardian|noun|A person who protects or looks after someone.
+gust|noun|A sudden strong rush of wind.
+habitat|noun|The natural home of an animal or plant.
+hardship|noun|Suffering or difficulty, such as having too little money.
+hazard|noun|A danger or risk.
+heritage|noun|Traditions and history passed down from earlier generations.
+hesitate|verb|To pause before doing something because you are unsure.
+hollow|adjective|Having an empty space inside.
+horizon|noun|The line where the earth or sea seems to meet the sky.
+hostile|adjective|Unfriendly and ready to fight.
+humble|adjective|Not proud; modest.
+humid|adjective|Warm and damp.
+hurricane|noun|A violent storm with very strong winds.
+identical|adjective|Exactly the same.
+illusion|noun|Something that seems real but is not.
+imitate|verb|To copy someone or something.
+immense|adjective|Extremely large.
+impatient|adjective|Unable to wait calmly.
+impress|verb|To make someone feel admiration.
+inhabit|verb|To live in a place.
+injure|verb|To hurt or harm.
+insist|verb|To say firmly that something must happen or is true.
+inspect|verb|To look at something carefully.
+inspire|verb|To fill someone with the urge or ability to do something.
+instinct|noun|A natural way of behaving that does not have to be learned.
+intense|adjective|Very strong or extreme.
+interrupt|verb|To stop someone while they are speaking or doing something.
+invade|verb|To enter a place by force.
+invent|verb|To create something that did not exist before.
+journal|noun|A daily record of events; a diary.
+jubilant|adjective|Feeling or showing great happiness, especially after a success.
+justice|noun|Fair treatment according to the law.
+keen|adjective|Eager and enthusiastic.
+kindle|verb|To light a fire, or to stir up a feeling.
+labyrinth|noun|A complicated network of paths; a maze.
+landscape|noun|All the visible features of an area of land.
+legend|noun|A traditional story that may or may not be true.
+leisure|noun|Free time for rest and enjoyment.
+linger|verb|To stay in a place longer than necessary.
+loyal|adjective|Faithful to a person, group, or cause.
+luxury|noun|Something expensive and enjoyable but not necessary.
+majestic|adjective|Grand and impressive.
+mammal|noun|A warm-blooded animal that feeds its young with milk.
+mansion|noun|A very large, impressive house.
+marvel|verb|To be filled with wonder.
+massive|adjective|Very large and heavy.
+mature|adjective|Fully grown or developed; behaving like an adult.
+mellow|adjective|Soft, smooth, and pleasant; relaxed.
+merchant|noun|A person who buys and sells goods.
+mercy|noun|Kindness or forgiveness shown to someone you could punish.
+migrate|verb|To move from one region to another, often with the seasons.
+mischief|noun|Playful behavior that causes small trouble.
+miserable|adjective|Very unhappy.
+modest|adjective|Not boasting about your abilities; not large or showy.
+moist|adjective|Slightly wet.
+monarch|noun|A king or queen.
+monument|noun|A structure built in memory of a person or event.
+motive|noun|The reason for doing something.
+murmur|verb|To speak softly and quietly.
+navigate|verb|To plan and follow a route.
+neglect|verb|To fail to take care of someone or something.
+nimble|adjective|Quick and light in movement.
+noble|adjective|Having fine personal qualities, or belonging to a high social rank.
+nourish|verb|To provide with the food needed for growth and health.
+novel|noun|A long written story about imaginary characters and events.
+oasis|noun|A place in a desert where water is found and plants grow.
+obey|verb|To do what you are told to do.
+observe|verb|To watch something carefully.
+obstacle|noun|Something that blocks the way or makes progress difficult.
+occupy|verb|To live in or fill a space, or to keep someone busy.
+orbit|noun|The curved path of an object around a star, planet, or moon.
+origin|noun|The point where something begins.
+outrageous|adjective|Shocking and unacceptable, or wildly unusual.
+paradise|noun|A place of perfect happiness and beauty.
+parallel|adjective|Side by side and the same distance apart at every point.
+pasture|noun|Land covered with grass where animals graze.
+peculiar|adjective|Strange or unusual.
+peril|noun|Serious danger.
+persuade|verb|To cause someone to do or believe something by giving reasons.
+pilgrim|noun|A person who travels to a holy place.
+plunge|verb|To jump or fall suddenly into something.
+portion|noun|A part or share of something.
+precious|adjective|Of great value.
+predict|verb|To say what will happen in the future.
+previous|adjective|Coming before in time or order.
+prey|noun|An animal that is hunted and eaten by another.
+procession|noun|A line of people or vehicles moving forward in an orderly way.
+prosper|verb|To succeed, especially in making money.
+protest|verb|To strongly say you disagree with something.
+punctual|adjective|Arriving or doing things at the agreed time.
+pursue|verb|To follow or chase someone or something.
+quarrel|noun|An angry argument.
+quest|noun|A long search for something.
+radiant|adjective|Shining brightly, or showing great happiness.
+rapid|adjective|Very fast.
+rascal|noun|A mischievous person, especially a child.
+realm|noun|A kingdom, or an area of activity or interest.
+recipe|noun|A set of instructions for preparing a dish.
+reckless|adjective|Doing dangerous things without thinking about the results.
+reflect|verb|To throw back light or sound, or to think carefully.
+refuge|noun|A place that gives shelter or protection.
+reluctant|adjective|Not willing to do something.
+remedy|noun|A cure or treatment for a problem or illness.
+remote|adjective|Far away from other places.
+resemble|verb|To look like or be similar to someone or something.
+reside|verb|To live in a particular place.
+resign|verb|To give up a job or position.
+respond|verb|To reply or react.
+retreat|verb|To move back or away, especially from danger.
+reveal|verb|To make something known or visible.
+ripple|noun|A small wave on the surface of water.
+rival|noun|A person competing with another for the same goal.
+robust|adjective|Strong and healthy; not easily broken.
+rumble|verb|To make a deep, continuous rolling sound.
+rumor|noun|A story passed around that may not be true.
+sacred|adjective|Holy, or deserving great respect.
+savage|adjective|Fierce, violent, and wild.
+scarce|adjective|Hard to find; not enough.
+scatter|verb|To throw or spread things in different directions.
+scent|noun|A pleasant smell.
+scold|verb|To speak angrily to someone because they did something wrong.
+scramble|verb|To move quickly and awkwardly, often using your hands.
+seize|verb|To take hold of something suddenly and firmly.
+serene|adjective|Calm and peaceful.
+severe|adjective|Very serious or harsh.
+shabby|adjective|Old and worn out in appearance.
+shelter|noun|A place that gives protection from weather or danger.
+shimmer|verb|To shine with a soft, wavering light.
+shrewd|adjective|Clever at understanding situations and making good decisions.
+siege|noun|A military operation in which an army surrounds a place to force it to surrender.
+sincere|adjective|Honest and genuine in feeling.
+slender|adjective|Thin in an attractive way.
+soar|verb|To fly high in the air, or to rise quickly.
+solemn|adjective|Serious and formal.
+solitary|adjective|Done alone, or existing alone.
+sparkle|verb|To shine with flashes of light.
+splendid|adjective|Very impressive or excellent.
+sprout|verb|To begin to grow, producing shoots.
+squabble|noun|A noisy argument about something unimportant.
+stampede|noun|A sudden rush of frightened animals or people.
+steady|adjective|Firm and not shaking; regular.
+stern|adjective|Serious and strict.
+stingy|adjective|Unwilling to spend or give money.
+stubborn|adjective|Refusing to change your mind.
+sturdy|adjective|Strong and well built.
+summon|verb|To order someone to come.
+superb|adjective|Excellent.
+surrender|verb|To stop fighting and give up.
+suspect|verb|To think something is probably true, or that someone may be guilty.
+swift|adjective|Very fast.
+tedious|adjective|Long, slow, and boring.
+temper|noun|A tendency to get angry easily.
+tempest|noun|A violent storm.
+terrain|noun|An area of land and its physical features.
+thrifty|adjective|Careful with money.
+thrive|verb|To grow or develop strongly and successfully.
+timid|adjective|Shy and easily frightened.
+tranquil|adjective|Calm and peaceful.
+treacherous|adjective|Dangerous, or likely to betray trust.
+tremble|verb|To shake slightly because of fear, cold, or excitement.
+triumph|noun|A great victory or success.
+tropical|adjective|Belonging to the hot regions near the equator.
+turmoil|noun|A state of great confusion or disturbance.
+unique|adjective|Being the only one of its kind.
+urgent|adjective|Needing immediate attention.
+vacant|adjective|Empty; not occupied.
+vague|adjective|Not clear or definite.
+valiant|adjective|Very brave.
+vanish|verb|To disappear suddenly.
+vast|adjective|Extremely large in area or amount.
+velvet|noun|A soft fabric with a thick, short pile on one side.
+venture|noun|A risky or daring journey or project.
+verdict|noun|A decision made by a jury in a trial.
+vessel|noun|A ship or large boat; also a container for liquids.
+vigilant|adjective|Watchful for possible danger.
+villain|noun|A wicked person, especially in a story.
+vital|adjective|Absolutely necessary or very important.
+volcano|noun|A mountain with an opening through which lava and gas can erupt.
+voyage|noun|A long journey, especially by sea or in space.
+weary|adjective|Very tired.
+wilderness|noun|A wild area of land with no people living in it.
+wisdom|noun|Good sense and judgment that comes from knowledge and experience.
+wobble|verb|To move unsteadily from side to side.
+wrath|noun|Extreme anger.
+yearn|verb|To have a strong desire for something.
+zealous|adjective|Very eager and enthusiastic.

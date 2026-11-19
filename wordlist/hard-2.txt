@@ -1,0 +1,245 @@
+# Hard: rare words (part 2). Format: word|part of speech|definition
+abeyance|noun|A state of temporary disuse or suspension.
+abnegation|noun|The act of denying yourself something.
+abrogate|verb|To formally abolish a law or agreement.
+accolade|noun|An award or expression of praise.
+acrid|adjective|Unpleasantly bitter or sharp to smell or taste.
+adulation|noun|Excessive admiration or praise.
+alchemy|noun|A medieval forerunner of chemistry that sought to turn ordinary metals into gold.
+allay|verb|To reduce or calm fear or worry.
+amorphous|adjective|Without a clear shape or form.
+anodyne|adjective|Not likely to cause offense; bland.
+apropos|adverb|With reference to; by the way.
+arbiter|noun|A person who settles a dispute or has the final say.
+artifice|noun|Clever tricks used to deceive.
+augury|noun|A sign of what will happen in the future; an omen.
+auspicious|adjective|Showing signs of future success.
+avuncular|adjective|Kind and friendly toward a younger person, like an uncle.
+baleful|adjective|Threatening harm; menacing.
+bastion|noun|A stronghold, or a place that strongly defends a principle.
+beguile|verb|To charm or trick someone.
+behemoth|noun|Something enormous and powerful.
+blandishment|noun|Flattering words used to persuade someone.
+bombast|noun|High-sounding language with little meaning.
+brusque|adjective|Abrupt or offhand in speech or manner.
+cabal|noun|A secret group plotting something.
+cadence|noun|The rise and fall of a voice or rhythm in sound.
+calumny|noun|A false statement made to damage someone's reputation.
+canard|noun|An unfounded rumor or story.
+cantankerous|adjective|Bad-tempered and argumentative.
+carouse|verb|To drink and have noisy fun with others.
+cavalier|adjective|Showing a careless lack of concern.
+chagrin|noun|Annoyance or distress at having failed or been humiliated.
+charlatan|noun|A person who falsely claims to have special knowledge or skill.
+chimera|noun|A monster in myth made of parts of different animals; also an impossible dream.
+choleric|adjective|Bad-tempered or easily angered.
+circumlocution|noun|Using many words where fewer would do, especially to be vague.
+coalesce|verb|To come together to form one mass or whole.
+codicil|noun|An addition or change to a will.
+cogitate|verb|To think deeply about something.
+compunction|noun|A feeling of guilt that prevents or follows wrongdoing.
+concomitant|adjective|Naturally accompanying or associated with something.
+consanguinity|noun|The relationship of people descended from the same ancestor.
+contumacious|adjective|Stubbornly disobedient to authority.
+corroborate|verb|To confirm or support with evidence.
+coterie|noun|A small, exclusive group of people with shared interests.
+crepuscular|adjective|Relating to twilight; active at dawn and dusk.
+cupidity|noun|Greed for money or possessions.
+curmudgeon|noun|A bad-tempered, grumpy person, often old.
+deign|verb|To do something you consider beneath your dignity.
+demure|adjective|Reserved, modest, and shy.
+depredation|noun|An act of attacking or plundering.
+dichotomy|noun|A division into two opposed or entirely different parts.
+dirge|noun|A sad song for the dead.
+disabuse|verb|To persuade someone that an idea they have is wrong.
+dissonance|noun|A lack of harmony between musical notes, or a clash of ideas.
+docile|adjective|Quiet and easy to control.
+doldrums|noun|A state of inactivity or low spirits.
+dulcet|adjective|Sweet and soothing, especially of sound.
+edify|verb|To instruct or improve someone morally or intellectually.
+effulgent|adjective|Shining brightly; radiant.
+eldritch|adjective|Weird and sinister or ghostly.
+elegy|noun|A sad poem, often written for someone who has died.
+emolument|noun|A salary or fee received for work.
+encomium|noun|A speech or piece of writing that praises someone highly.
+enmity|noun|Deep hostility between people.
+ephemera|noun|Things that are meant to last or be useful for only a short time.
+epitome|noun|A perfect example of a quality or type.
+eschew|verb|To deliberately avoid something.
+estuary|noun|The wide part of a river where it meets the sea.
+evince|verb|To reveal or show clearly.
+excoriate|verb|To criticize very severely.
+execrable|adjective|Extremely bad.
+exegesis|noun|A critical explanation of a text, especially scripture.
+exiguous|adjective|Very small in size or amount.
+expiate|verb|To make amends for wrongdoing.
+fealty|noun|Loyalty, especially to a lord in the Middle Ages.
+fecundity|noun|The ability to produce many offspring or new ideas.
+filibuster|noun|A long speech made to delay or block a decision in a legislature.
+firmament|noun|The sky or heavens.
+flaccid|adjective|Soft and limp.
+fulminate|verb|To protest loudly and angrily.
+gainsay|verb|To deny or contradict.
+gambit|noun|An opening move or remark meant to gain an advantage.
+gauche|adjective|Socially awkward.
+gossamer|noun|A very light, thin, delicate material, like a spider's thread.
+grandiose|adjective|Impressive in an exaggerated way.
+guile|noun|Clever but sly intelligence used to trick people.
+harbinger|noun|A sign that something is coming.
+heinous|adjective|Utterly wicked.
+hirsute|adjective|Covered with a lot of hair; hairy.
+histrionic|adjective|Overly dramatic in behavior.
+hoary|adjective|Grayish-white, or very old and overused.
+iconography|noun|The images and symbols associated with a subject.
+ignoble|adjective|Not honorable in character or purpose.
+imbroglio|noun|An extremely confused or complicated situation.
+immutable|adjective|Unchanging over time.
+impasse|noun|A situation in which no progress is possible.
+impunity|noun|Freedom from punishment.
+inculcate|verb|To teach by repeated instruction.
+indomitable|adjective|Impossible to defeat or discourage.
+inexplicable|adjective|Unable to be explained.
+infallible|adjective|Incapable of making mistakes.
+ingratiate|verb|To try to make someone like you, often to gain an advantage.
+inscrutable|adjective|Impossible to understand or interpret.
+interlocutor|noun|A person taking part in a conversation.
+internecine|adjective|Destructive to both sides in a conflict.
+intrepid|adjective|Fearless and adventurous.
+inure|verb|To make someone used to something unpleasant.
+invective|noun|Insulting or abusive language.
+irreverent|adjective|Showing a lack of respect for things usually taken seriously.
+jettison|verb|To throw or drop something from a ship or aircraft; to abandon.
+juggernaut|noun|A huge, powerful force that crushes whatever is in its way.
+kismet|noun|Destiny; fate.
+labyrinthine|adjective|Like a maze; very complicated.
+lambaste|verb|To criticize harshly.
+lampoon|verb|To publicly mock someone through satire.
+legerdemain|noun|Skillful use of the hands in tricks; sleight of hand.
+leviathan|noun|A sea monster in stories; anything extremely large and powerful.
+limpid|adjective|Clear and transparent.
+litany|noun|A long, repetitive list.
+livid|adjective|Furiously angry; also dark bluish-gray in color.
+lucre|noun|Money, especially when gained dishonestly.
+machination|noun|A crafty scheme or plot.
+magnate|noun|A wealthy and influential businessperson.
+malaise|noun|A general feeling of discomfort or unease.
+malfeasance|noun|Wrongdoing, especially by a public official.
+martinet|noun|A person who demands strict obedience to rules.
+melancholy|noun|A deep, long-lasting sadness.
+miasma|noun|An unpleasant or unhealthy smell or atmosphere.
+milieu|noun|A person's social environment.
+modicum|noun|A small amount.
+moratorium|noun|A temporary ban on an activity.
+mordant|adjective|Sharply sarcastic.
+mores|noun|The customs and conventions of a community.
+nascent|adjective|Just coming into existence.
+nemesis|noun|A long-standing rival or enemy; something that brings about someone's downfall.
+noisome|adjective|Having an extremely unpleasant smell; harmful.
+nomenclature|noun|A system of names used in a particular field.
+obloquy|noun|Strong public criticism; disgrace.
+obviate|verb|To remove a need or difficulty.
+occlude|verb|To block or close up.
+oligarchy|noun|Government by a small group of powerful people.
+omniscient|adjective|Knowing everything.
+opprobrium|noun|Harsh criticism or public disgrace.
+oscillate|verb|To swing back and forth regularly.
+palimpsest|noun|A manuscript page that has been written on, scraped clean, and written on again.
+panegyric|noun|A public speech or text in praise of someone.
+paroxysm|noun|A sudden attack or outburst of emotion or activity.
+parody|noun|An imitation of a style that exaggerates it for comic effect.
+patina|noun|A thin green or brown film on the surface of old metal or wood.
+peccadillo|noun|A small, unimportant sin or fault.
+penumbra|noun|The partly shaded outer region of a shadow.
+peregrination|noun|A long, wandering journey.
+peremptory|adjective|Insisting on immediate attention or obedience.
+perfidy|noun|Deliberate betrayal of trust.
+perigee|noun|The point in an orbit where an object is closest to the Earth.
+peripatetic|adjective|Traveling from place to place.
+perturb|verb|To make someone anxious or unsettled.
+philistine|noun|A person who does not appreciate art or culture.
+picayune|adjective|Petty; of little value.
+piquant|adjective|Pleasantly sharp in taste; stimulating.
+plaudit|noun|An expression of praise.
+plenary|adjective|Full and complete; attended by all members.
+polemic|noun|A strong written or spoken attack on an opinion.
+portent|noun|A sign that something important or bad is about to happen.
+preen|verb|To clean feathers with a beak, or to admire yourself.
+prevarication|noun|The act of avoiding the truth.
+primordial|adjective|Existing at or from the very beginning of time.
+proffer|verb|To offer something for acceptance.
+promulgate|verb|To make an idea or law widely known.
+propinquity|noun|Nearness in place, time, or relationship.
+provenance|noun|The place where something comes from; its history of ownership.
+puerile|adjective|Childishly silly.
+purloin|verb|To steal.
+putrid|adjective|Rotting and smelling very bad.
+quagmire|noun|A soft, boggy area of land, or a difficult situation.
+qualm|noun|A feeling of doubt or unease about doing something.
+quandary|noun|A state of uncertainty about what to do.
+quibble|verb|To argue about trivial matters.
+raconteur|noun|A person who tells stories in a skillful and amusing way.
+raiment|noun|Clothing.
+rapport|noun|A close, friendly relationship of mutual understanding.
+rebuke|verb|To criticize someone sharply.
+recant|verb|To publicly take back an opinion or belief.
+recrimination|noun|An accusation made in response to one from someone else.
+regale|verb|To entertain someone with stories.
+relegate|verb|To move someone or something to a lower position.
+remiss|adjective|Careless in doing your duty.
+renegade|noun|A person who deserts and betrays a group or cause.
+reprieve|noun|A cancellation or delay of a punishment.
+resplendent|adjective|Attractive and impressive through being richly colorful.
+retinue|noun|A group of attendants accompanying an important person.
+riposte|noun|A quick, clever reply.
+rococo|adjective|Extremely ornate and elaborate in style.
+sacrosanct|adjective|Too important or valuable to be changed or questioned.
+scurrilous|adjective|Making scandalous claims to damage someone's reputation.
+semblance|noun|An outward appearance, especially one that hides the truth.
+sepulchral|adjective|Gloomy, like a tomb.
+sinecure|noun|A position requiring little work but giving status or pay.
+sobriquet|noun|A nickname.
+solace|noun|Comfort in a time of sadness.
+solipsism|noun|The view that only your own mind is sure to exist; extreme self-centeredness.
+sophistry|noun|Clever but false arguments meant to deceive.
+spartan|adjective|Showing simplicity and a lack of comfort.
+splenetic|adjective|Bad-tempered and spiteful.
+squalid|adjective|Extremely dirty and unpleasant.
+stalwart|adjective|Loyal, reliable, and hardworking.
+stentorian|adjective|Very loud and powerful, of a voice.
+stultify|verb|To make someone feel bored and unable to think.
+sublime|adjective|Of such excellence or beauty that it inspires great admiration.
+subterfuge|noun|A trick used to achieve a goal.
+succinct|adjective|Briefly and clearly expressed.
+suffuse|verb|To gradually spread through or over.
+supplant|verb|To take the place of someone or something.
+svelte|adjective|Slender and elegant.
+sybarite|noun|A person who loves luxury and pleasure.
+syzygy|noun|The lining up of three objects in space, such as the sun, Earth, and moon.
+talisman|noun|An object believed to have magic powers and bring good luck.
+tawdry|adjective|Showy but cheap and of poor quality.
+tenet|noun|A principle or belief held by a group.
+threnody|noun|A song or poem of mourning.
+timorous|adjective|Showing nervousness or a lack of confidence.
+tirade|noun|A long, angry speech of criticism.
+tome|noun|A large, heavy book.
+torpor|noun|A state of physical or mental inactivity.
+travesty|noun|A false, absurd, or distorted version of something.
+tremulous|adjective|Shaking or quivering slightly.
+trepidation|noun|A feeling of fear about something that may happen.
+umbrageous|adjective|Shady; also easily offended.
+undulate|verb|To move with a smooth wavelike motion.
+unfettered|adjective|Not restrained or restricted.
+unwieldy|adjective|Difficult to move or handle because of size or shape.
+vacuous|adjective|Showing a lack of thought or intelligence.
+vagary|noun|An unexpected and unexplained change.
+valedictory|adjective|Serving as a farewell.
+vehement|adjective|Showing strong feeling; forceful.
+verdant|adjective|Green with grass or other rich vegetation.
+verisimilitude|noun|The appearance of being true or real.
+vestige|noun|A trace of something that is disappearing or no longer exists.
+visage|noun|A person's face.
+vituperate|verb|To criticize harshly and abusively.
+vivacious|adjective|Lively and full of energy.
+whet|verb|To sharpen a blade, or to stimulate an appetite or interest.
+wraith|noun|A ghost or ghostlike image.
+zeitgeist|noun|The general spirit or mood of a particular period of history.

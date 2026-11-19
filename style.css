@@ -1,0 +1,538 @@
+/* Fonts are bundled in fonts/ so the game looks the same offline.
+   Each file is a variable font covering the weight range given. */
+@font-face {
+  font-family: "Bricolage Grotesque";
+  src: url("fonts/bricolage-grotesque.woff2") format("woff2");
+  font-weight: 200 800;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Inter";
+  src: url("fonts/inter.woff2") format("woff2");
+  font-weight: 100 900;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "JetBrains Mono";
+  src: url("fonts/jetbrains-mono.woff2") format("woff2");
+  font-weight: 100 800;
+  font-display: swap;
+}
+
+/* "Chalkboard" look: deep green-black board, chalk text, one marigold accent. */
+:root {
+  --board: #14201B;
+  --panel: #1C2B25;
+  --raised: #243630;
+  --line: #2E4239;
+  --line-strong: #4A6157;
+  --chalk: #F2EFE6;
+  --chalk-soft: #B7C2BC;
+  --muted: #A9B5AE;
+  --dim: #8A9891;
+  --marigold: #F2B33D;
+  --coral: #FF8F70;
+
+  --font-display: "Bricolage Grotesque", system-ui, sans-serif;
+  --font-body: Inter, system-ui, -apple-system, "Segoe UI", sans-serif;
+  --font-mono: "JetBrains Mono", "SF Mono", Menlo, Consolas, monospace;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-height: 100vh;
+  background: var(--board);
+  color: var(--chalk);
+  font-family: var(--font-body);
+}
+
+/* ---------- Header ---------- */
+
+.site-header {
+  display: flex;
+  align-items: center;
+  min-height: 72px;
+  padding: 12px 24px;
+  border-bottom: 1px solid var(--line);
+}
+
+.brand {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  color: var(--chalk);
+  text-decoration: none;
+}
+
+.brand-mark {
+  width: 40px;
+  height: 40px;
+}
+
+.gallows {
+  fill: none;
+  stroke: var(--chalk);
+  stroke-width: 8;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+.tile {
+  fill: var(--marigold);
+}
+
+.tile-letter {
+  font-family: var(--font-display);
+  font-weight: 800;
+  font-size: 28px;
+  fill: var(--board);
+}
+
+.wordmark {
+  display: flex;
+  gap: 3px;
+  font-family: var(--font-display);
+  font-weight: 800;
+  font-size: 22px;
+  letter-spacing: 0.02em;
+}
+
+.wordmark span {
+  padding: 0 1px;
+  border-bottom: 3px solid var(--line-strong);
+}
+
+.wordmark .blank {
+  color: transparent;
+  border-bottom-color: var(--marigold);
+}
+
+/* ---------- Layout ---------- */
+
+main {
+  max-width: 1040px;
+  margin: 0 auto;
+  padding: 32px 16px 56px;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+}
+
+.tagline {
+  margin: 0;
+  font-family: var(--font-display);
+  font-weight: 800;
+  font-size: clamp(1.5rem, 4vw, 2.25rem);
+  letter-spacing: -0.01em;
+}
+
+.difficulty {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 12px;
+}
+
+.segmented {
+  display: flex;
+  gap: 4px;
+  padding: 4px;
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 12px;
+}
+
+.segmented button {
+  min-height: 44px;
+  padding: 0 20px;
+  border: none;
+  border-radius: 9px;
+  background: transparent;
+  color: var(--chalk);
+  font: 600 0.95rem var(--font-body);
+  cursor: pointer;
+}
+
+.segmented button:hover {
+  background: var(--raised);
+}
+
+.segmented button[aria-pressed="true"] {
+  background: var(--marigold);
+  color: var(--board);
+  font-weight: 700;
+}
+
+.btn-outline {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  min-height: 48px;
+  padding: 0 24px;
+  border: 2px solid var(--line-strong);
+  border-radius: 12px;
+  background: transparent;
+  color: var(--chalk);
+  font: 700 1rem var(--font-body);
+  cursor: pointer;
+}
+
+.btn-outline:hover {
+  border-color: var(--marigold);
+  color: var(--marigold);
+}
+
+.btn-outline svg {
+  width: 18px;
+  height: 18px;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 2.2;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+.board {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 28px;
+  padding: 32px 24px;
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 24px;
+}
+
+/* ---------- Stats ---------- */
+
+.stats {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+}
+
+.stats-wrong {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.label {
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+
+.muted {
+  color: var(--chalk-soft);
+}
+
+.pips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.pip {
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  border: 2px solid var(--line-strong);
+}
+
+.pip.used {
+  background: var(--coral);
+  border-color: var(--coral);
+}
+
+.stats-left {
+  display: flex;
+  align-items: baseline;
+  gap: 8px;
+}
+
+.big-number {
+  font-family: var(--font-display);
+  font-weight: 800;
+  font-size: 3.5rem;
+  line-height: 1;
+  color: var(--marigold);
+}
+
+/* ---------- Word ---------- */
+
+.word {
+  margin: 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 12px;
+}
+
+.slot {
+  width: 56px;
+  height: 72px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  padding-bottom: 6px;
+  border-bottom: 4px solid var(--line-strong);
+  font-family: var(--font-mono);
+  font-weight: 700;
+  font-size: 2.5rem;
+}
+
+.slot.shown {
+  border-bottom-color: var(--chalk);
+}
+
+.slot.missed {
+  color: var(--coral);
+  border-bottom-style: dashed;
+  border-bottom-color: var(--coral);
+}
+
+/* ---------- Hint ---------- */
+
+.hint-area {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 12px;
+}
+
+.btn-hint {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  min-height: 44px;
+  padding: 0 20px;
+  border: 1px dashed var(--marigold);
+  border-radius: 999px;
+  background: transparent;
+  color: var(--marigold);
+  font: 600 0.95rem var(--font-body);
+  cursor: pointer;
+}
+
+.btn-hint:hover {
+  background: var(--raised);
+}
+
+.btn-hint svg {
+  width: 18px;
+  height: 18px;
+  fill: none;
+  stroke: currentColor;
+  stroke-width: 2;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+.hint-panel {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+}
+
+.hint-panel[hidden] {
+  display: none;
+}
+
+.hint-chips {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 10px;
+}
+
+.chip {
+  padding: 10px 14px;
+  background: var(--raised);
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  font-size: 0.95rem;
+}
+
+.chip-label {
+  color: var(--muted);
+  margin-right: 4px;
+}
+
+.mono {
+  font-family: var(--font-mono);
+}
+
+.hint-note {
+  font-size: 0.8rem;
+  color: var(--muted);
+}
+
+/* ---------- End-of-round message ---------- */
+
+.message {
+  width: 100%;
+  max-width: 640px;
+  padding: 20px 24px;
+  border: 2px solid var(--marigold);
+  border-radius: 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.message[hidden] {
+  display: none;
+}
+
+.message .title {
+  font-family: var(--font-display);
+  font-weight: 800;
+  font-size: 1.75rem;
+}
+
+.message.win .title {
+  color: var(--marigold);
+}
+
+.message.lose {
+  border-color: var(--coral);
+}
+
+.message.lose .title {
+  color: var(--coral);
+}
+
+.message .detail {
+  font-size: 1.05rem;
+  color: var(--chalk-soft);
+}
+
+.definition {
+  margin-top: 8px;
+  padding-top: 14px;
+  border-top: 1px solid var(--line);
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.definition-head {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 10px;
+}
+
+.definition-word {
+  font-family: var(--font-display);
+  font-weight: 800;
+  font-size: 1.4rem;
+}
+
+.pos-pill {
+  padding: 4px 10px;
+  border-radius: 999px;
+  background: var(--raised);
+  border: 1px solid var(--line-strong);
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: #D9DFDB;
+}
+
+.definition-text {
+  margin: 0;
+  font-size: 1.1rem;
+  line-height: 1.5;
+  color: #E6E9E7;
+}
+
+/* ---------- Letter buttons ---------- */
+
+.letters {
+  max-width: 640px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 8px;
+}
+
+.letters button {
+  width: 52px;
+  height: 52px;
+  border: 1px solid var(--line-strong);
+  border-radius: 10px;
+  background: var(--raised);
+  color: var(--chalk);
+  font: 700 1.2rem var(--font-mono);
+  cursor: pointer;
+}
+
+.letters button:hover:not(:disabled) {
+  border-color: var(--marigold);
+}
+
+.letters button:disabled {
+  cursor: default;
+}
+
+.letters button.correct {
+  background: var(--marigold);
+  border-color: var(--marigold);
+  color: var(--board);
+}
+
+.letters button.wrong {
+  background: transparent;
+  border-color: var(--line);
+  color: var(--dim);
+  text-decoration: line-through;
+}
+
+/* Unused letters after the round ends */
+.letters button:disabled:not(.correct):not(.wrong) {
+  opacity: 0.5;
+}
+
+button:focus-visible,
+a:focus-visible {
+  outline: 3px solid var(--marigold);
+  outline-offset: 2px;
+}
+
+@media (max-width: 480px) {
+  .slot {
+    width: 40px;
+    height: 56px;
+    font-size: 1.9rem;
+  }
+
+  .word {
+    gap: 8px;
+  }
+
+  .letters button {
+    width: 44px;
+    height: 44px;
+  }
+}

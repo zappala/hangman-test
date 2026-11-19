@@ -1,0 +1,355 @@
+# Hard: rare words. Format: word|part of speech|definition
+lucid|adjective|Clear and easy to understand.
+ephemeral|adjective|Lasting for a very short time.
+quixotic|adjective|Hopelessly idealistic; noble but unrealistic.
+obfuscate|verb|To make something unclear or harder to understand.
+laconic|adjective|Using very few words.
+zephyr|noun|A soft, gentle breeze.
+cacophony|noun|A harsh, unpleasant mixture of loud sounds.
+gregarious|adjective|Enjoying the company of others; sociable.
+serendipity|noun|The luck of finding something good without looking for it.
+mellifluous|adjective|Sweet and smooth to hear.
+aberration|noun|A departure from what is normal or expected.
+abhor|verb|To hate something very strongly.
+abjure|verb|To solemnly give up a belief or claim.
+abscond|verb|To leave secretly and hurriedly, often to avoid arrest.
+abstruse|adjective|Difficult to understand.
+acerbic|adjective|Sharp and biting in tone.
+acquiesce|verb|To accept something without protest.
+acrimony|noun|Bitterness or ill feeling.
+acumen|noun|The ability to make good judgments quickly.
+admonish|verb|To warn or scold someone firmly.
+adroit|adjective|Clever or skillful, especially with the hands.
+affable|adjective|Friendly and easy to talk to.
+alacrity|noun|Brisk and cheerful readiness.
+amalgamate|verb|To combine or unite into one.
+ameliorate|verb|To make something bad better.
+anachronism|noun|Something that belongs to a different time period than the one in which it appears.
+anathema|noun|Something or someone that is strongly disliked.
+anomaly|noun|Something that differs from what is standard or expected.
+antediluvian|adjective|Extremely old-fashioned.
+antithesis|noun|The exact opposite.
+apathy|noun|Lack of interest or concern.
+aplomb|noun|Self-confidence in a difficult situation.
+apocryphal|adjective|Widely told but probably not true.
+apotheosis|noun|The highest point in the development of something; a perfect example.
+arcane|adjective|Understood by only a few people; mysterious.
+archetype|noun|A perfect or typical example of something.
+ardent|adjective|Very enthusiastic or passionate.
+arduous|adjective|Requiring great effort; difficult and tiring.
+ascetic|adjective|Living a simple life without comforts, often for religious reasons.
+assiduous|adjective|Showing great care and persistence.
+assuage|verb|To make an unpleasant feeling less intense.
+astute|adjective|Clever at noticing and understanding things.
+atrophy|verb|To waste away from lack of use.
+audacious|adjective|Showing bold willingness to take risks.
+austere|adjective|Severe or strict in manner; plain and without decoration.
+avarice|noun|Extreme greed for wealth.
+banal|adjective|So ordinary that it is boring.
+bellicose|adjective|Eager to fight or argue.
+belligerent|adjective|Hostile and aggressive.
+benevolent|adjective|Kind and generous.
+bequeath|verb|To leave property to someone in a will.
+besmirch|verb|To damage someone's reputation.
+bombastic|adjective|Using grand-sounding words with little meaning.
+boisterous|adjective|Noisy, energetic, and cheerful.
+bucolic|adjective|Relating to the pleasant aspects of country life.
+bumptious|adjective|Annoyingly self-important.
+burgeon|verb|To begin to grow or increase rapidly.
+byzantine|adjective|Extremely complicated and detailed.
+cajole|verb|To persuade someone with flattery or gentle urging.
+callous|adjective|Showing no concern for other people's feelings.
+candor|noun|The quality of being open and honest.
+capitulate|verb|To give up resisting; to surrender.
+capricious|adjective|Changing mood or behavior suddenly and without reason.
+castigate|verb|To criticize someone severely.
+catharsis|noun|The release of strong emotions, bringing relief.
+caustic|adjective|Able to burn through by chemical action; also sarcastic and hurtful.
+censure|verb|To express strong disapproval of someone formally.
+chicanery|noun|The use of trickery to deceive people.
+churlish|adjective|Rude and bad-tempered.
+circumspect|adjective|Careful and unwilling to take risks.
+clandestine|adjective|Kept secret or done secretly.
+cogent|adjective|Clear, logical, and convincing.
+cognizant|adjective|Aware of something.
+colloquial|adjective|Used in ordinary, informal conversation.
+commensurate|adjective|In proportion to something; matching in size or degree.
+complacent|adjective|Too satisfied with yourself to notice possible dangers.
+conciliatory|adjective|Intended to make someone less angry.
+conflagration|noun|A large, destructive fire.
+connoisseur|noun|An expert judge in matters of taste, such as art or food.
+consternation|noun|Anxiety or dismay, usually at something unexpected.
+contrite|adjective|Feeling sorry for having done something wrong.
+conundrum|noun|A confusing and difficult problem or question.
+convivial|adjective|Friendly and lively; good for social occasions.
+copious|adjective|Plentiful; in large amounts.
+corpulent|adjective|Very fat.
+credulous|adjective|Too ready to believe things.
+cryptic|adjective|Having a hidden or mysterious meaning.
+culpable|adjective|Deserving blame.
+cursory|adjective|Done quickly without attention to detail.
+dearth|noun|A lack or shortage of something.
+debacle|noun|A sudden, complete failure.
+debilitate|verb|To make someone very weak.
+decorum|noun|Behavior that is proper and polite.
+deference|noun|Polite respect.
+deleterious|adjective|Causing harm or damage.
+demagogue|noun|A political leader who gains support by appealing to people's emotions and prejudices.
+denigrate|verb|To criticize unfairly; to belittle.
+deride|verb|To mock or make fun of.
+desiccate|verb|To remove the moisture from something.
+desultory|adjective|Lacking a plan, purpose, or enthusiasm.
+diatribe|noun|A bitter verbal attack.
+didactic|adjective|Intended to teach, often in a preachy way.
+diffident|adjective|Shy and lacking in self-confidence.
+dilapidated|adjective|In a state of disrepair or ruin.
+dilatory|adjective|Slow to act; tending to delay.
+discern|verb|To notice or understand something that is not obvious.
+disparage|verb|To speak of someone or something as unimportant or worthless.
+disparate|adjective|Essentially different in kind.
+dissemble|verb|To hide your real feelings or intentions.
+dogmatic|adjective|Insisting that your beliefs are right without considering others.
+draconian|adjective|Excessively harsh and severe.
+duplicity|noun|Deceitfulness; double-dealing.
+ebullient|adjective|Cheerful and full of energy.
+eclectic|adjective|Drawing from many different sources or styles.
+effervescent|adjective|Bubbly; lively and enthusiastic.
+efficacious|adjective|Effective; producing the desired result.
+effrontery|noun|Shameless boldness.
+egregious|adjective|Outstandingly bad; shocking.
+elucidate|verb|To make something clear; to explain.
+emaciated|adjective|Abnormally thin from lack of food or illness.
+embellish|verb|To decorate, or to add details to a story to make it more interesting.
+emollient|adjective|Soothing to the skin; also calming in manner.
+empirical|adjective|Based on observation or experience rather than theory.
+emulate|verb|To try to match or surpass someone, usually by imitating them.
+enervate|verb|To make someone feel drained of energy.
+enigma|noun|A person or thing that is mysterious or difficult to understand.
+ennui|noun|A feeling of boredom and dissatisfaction.
+epiphany|noun|A sudden moment of insight or understanding.
+equanimity|noun|Calmness and composure, especially in a difficult situation.
+equivocal|adjective|Open to more than one interpretation; ambiguous.
+erudite|adjective|Having or showing great knowledge from study.
+esoteric|adjective|Intended for or understood by only a small group.
+euphemism|noun|A mild word used in place of one that might seem harsh or blunt.
+euphoria|noun|A feeling of intense happiness and excitement.
+evanescent|adjective|Quickly fading or disappearing.
+exacerbate|verb|To make a problem or bad situation worse.
+exculpate|verb|To show that someone is not guilty.
+exigent|adjective|Pressing; demanding immediate attention.
+exonerate|verb|To officially clear someone of blame.
+expedient|adjective|Convenient and practical, though possibly improper.
+expunge|verb|To erase or remove completely.
+extol|verb|To praise enthusiastically.
+extricate|verb|To free someone or something from a difficult situation.
+facetious|adjective|Joking about serious matters in an inappropriate way.
+fallacious|adjective|Based on a mistaken belief.
+fastidious|adjective|Very attentive to detail and cleanliness; hard to please.
+fatuous|adjective|Silly and pointless.
+fecund|adjective|Producing many offspring or much growth; fertile.
+feral|adjective|Wild, especially after having been domesticated.
+fervent|adjective|Having or showing intense feeling.
+flagrant|adjective|Obvious and shocking.
+florid|adjective|Having a red or flushed face; also overly decorated.
+flummox|verb|To completely confuse someone.
+foible|noun|A minor weakness or odd habit.
+forbearance|noun|Patient self-control and tolerance.
+fortuitous|adjective|Happening by chance, often luckily.
+fractious|adjective|Irritable and quarrelsome.
+furtive|adjective|Secretive in a way that suggests guilt.
+garrulous|adjective|Excessively talkative.
+germane|adjective|Relevant to a subject.
+grandiloquent|adjective|Pompous or extravagant in language.
+gratuitous|adjective|Done without good reason; uncalled for.
+hackneyed|adjective|Used so often that it is no longer interesting; overused.
+halcyon|adjective|Denoting a past time that was idyllically happy and peaceful.
+harangue|noun|A long, aggressive speech.
+hegemony|noun|Leadership or dominance of one group over others.
+heresy|noun|A belief that goes against accepted religious teaching.
+hubris|noun|Excessive pride or self-confidence.
+hyperbole|noun|Exaggerated statements not meant to be taken literally.
+iconoclast|noun|A person who attacks cherished beliefs or institutions.
+idiosyncrasy|noun|A peculiar habit or way of behaving that is unique to someone.
+ignominious|adjective|Deserving or causing public disgrace.
+impecunious|adjective|Having little or no money.
+imperious|adjective|Arrogant and domineering.
+impervious|adjective|Not allowing something to pass through; not affected by something.
+impetuous|adjective|Acting quickly without thinking.
+implacable|adjective|Unable to be calmed or satisfied.
+importune|verb|To ask someone persistently for something.
+impudent|adjective|Not showing proper respect; cheeky.
+inane|adjective|Silly and lacking meaning.
+incessant|adjective|Continuing without stopping.
+inchoate|adjective|Just begun and not fully formed.
+incongruous|adjective|Out of place; not in harmony with its surroundings.
+indefatigable|adjective|Never showing signs of getting tired.
+indolent|adjective|Lazy; wanting to avoid activity.
+ineffable|adjective|Too great or extreme to be described in words.
+inexorable|adjective|Impossible to stop or prevent.
+ingenuous|adjective|Innocent and unsuspecting.
+inimical|adjective|Harmful or hostile.
+innocuous|adjective|Not harmful or offensive.
+insidious|adjective|Gradually and secretly harmful.
+insipid|adjective|Lacking flavor or interest.
+intransigent|adjective|Refusing to change your views.
+inveterate|adjective|Having a habit that is unlikely to change.
+irascible|adjective|Easily made angry.
+itinerant|adjective|Traveling from place to place.
+jejune|adjective|Naive and simplistic; also dull.
+jocular|adjective|Fond of joking; humorous.
+juxtapose|verb|To place things side by side, often for contrast.
+kowtow|verb|To act in an overly respectful or obedient way.
+lachrymose|adjective|Tearful or inclined to weep.
+languid|adjective|Relaxed and slow, without energy.
+largesse|noun|Generosity in giving money or gifts.
+lassitude|noun|A state of physical or mental tiredness.
+laudable|adjective|Deserving praise.
+lethargic|adjective|Sluggish and without energy.
+lionize|verb|To treat someone as a celebrity.
+loquacious|adjective|Very talkative.
+lugubrious|adjective|Looking or sounding sad and gloomy.
+magnanimous|adjective|Generous and forgiving, especially toward a rival.
+malevolent|adjective|Wishing to do harm to others.
+malleable|adjective|Able to be shaped or bent without breaking; easily influenced.
+maudlin|adjective|Self-pityingly or tearfully sentimental.
+maverick|noun|An independent person who does not follow the usual rules.
+mendacious|adjective|Not telling the truth; lying.
+mercurial|adjective|Changing mood unpredictably.
+meretricious|adjective|Attractive on the surface but having no real value.
+misanthrope|noun|A person who dislikes people in general.
+miscreant|noun|A person who behaves badly or breaks the law.
+mitigate|verb|To make something less severe.
+mollify|verb|To calm someone's anger.
+moribund|adjective|Close to death or coming to an end.
+morose|adjective|Sullen and gloomy.
+munificent|adjective|Very generous.
+myriad|noun|A very great number.
+nadir|noun|The lowest point of something.
+nebulous|adjective|Unclear, vague, or hazy.
+nefarious|adjective|Wicked or criminal.
+neophyte|noun|A person who is new to a subject or activity.
+nonchalant|adjective|Appearing calm and relaxed; not showing concern.
+obdurate|adjective|Stubbornly refusing to change your opinion.
+obsequious|adjective|Too eager to please or obey.
+obstreperous|adjective|Noisy and difficult to control.
+obtuse|adjective|Slow to understand; also describes an angle greater than ninety degrees.
+odious|adjective|Extremely unpleasant.
+officious|adjective|Too eager to give orders or interfere.
+onerous|adjective|Involving a lot of effort and difficulty.
+opulent|adjective|Rich and luxurious.
+ostentatious|adjective|Showy, designed to impress.
+ostracize|verb|To exclude someone from a group.
+palatable|adjective|Pleasant to taste; acceptable.
+palliate|verb|To make a disease or problem less severe without curing it.
+panacea|noun|A solution for all problems or a cure for all diseases.
+paradigm|noun|A typical example or model of something.
+paragon|noun|A person or thing that is a perfect example of a quality.
+pariah|noun|A person who is rejected by society.
+parsimonious|adjective|Extremely unwilling to spend money.
+paucity|noun|A small or insufficient amount.
+pedantic|adjective|Too concerned with small details or rules.
+pejorative|adjective|Expressing disapproval or contempt.
+penchant|noun|A strong liking for something.
+penurious|adjective|Extremely poor.
+perfidious|adjective|Deceitful and untrustworthy.
+perfunctory|adjective|Done quickly and without care, as a routine.
+pernicious|adjective|Having a harmful effect, especially in a gradual way.
+perspicacious|adjective|Quick to notice and understand things.
+petulant|adjective|Childishly bad-tempered.
+phlegmatic|adjective|Calm and not easily excited.
+pithy|adjective|Short but full of meaning.
+placate|verb|To make someone less angry.
+platitude|noun|A remark that has been used too often to be interesting.
+plethora|noun|An excessive amount of something.
+poignant|adjective|Causing a sharp feeling of sadness or regret.
+pragmatic|adjective|Dealing with things sensibly and practically.
+precocious|adjective|Having developed certain abilities earlier than usual.
+predilection|noun|A preference or special liking for something.
+prescient|adjective|Knowing about events before they happen.
+prevaricate|verb|To avoid giving a direct answer.
+pristine|adjective|In its original condition; spotlessly clean.
+probity|noun|Strong moral principles; honesty.
+proclivity|noun|A natural tendency to do something.
+prodigal|adjective|Spending money or resources wastefully.
+profligate|adjective|Recklessly wasteful.
+propensity|noun|A natural tendency to behave in a certain way.
+propitious|adjective|Likely to lead to success; favorable.
+prosaic|adjective|Ordinary and lacking imagination.
+proscribe|verb|To forbid something, especially by law.
+pugnacious|adjective|Eager to argue or fight.
+punctilious|adjective|Very careful about correct behavior and details.
+pusillanimous|adjective|Showing a lack of courage; cowardly.
+querulous|adjective|Complaining in a whining manner.
+quiescent|adjective|Inactive or still, often temporarily.
+quintessential|adjective|Being the most perfect or typical example.
+quotidian|adjective|Ordinary or everyday.
+rancor|noun|Bitter, long-lasting resentment.
+rapacious|adjective|Aggressively greedy.
+recalcitrant|adjective|Stubbornly uncooperative.
+recondite|adjective|Little known; obscure.
+redolent|adjective|Strongly reminiscent of something; having a strong smell.
+refulgent|adjective|Shining brightly.
+remonstrate|verb|To make a forceful protest.
+renege|verb|To go back on a promise.
+replete|adjective|Filled or well supplied with something.
+reprobate|noun|A person without moral principles.
+repudiate|verb|To refuse to accept or be associated with something.
+rescind|verb|To cancel a law, order, or agreement.
+reticent|adjective|Not revealing your thoughts or feelings easily.
+reverie|noun|A state of pleasant daydreaming.
+rubicund|adjective|Having a reddish, healthy-looking complexion.
+ruminate|verb|To think deeply about something.
+sagacious|adjective|Wise and showing good judgment.
+salient|adjective|Most noticeable or important.
+salubrious|adjective|Good for your health.
+sanctimonious|adjective|Acting morally superior to others.
+sanguine|adjective|Optimistic, especially in a difficult situation.
+sardonic|adjective|Mocking in a grimly humorous way.
+scintillating|adjective|Sparkling; brilliantly clever and lively.
+scrupulous|adjective|Very careful and thorough; morally careful.
+sedulous|adjective|Showing dedication and diligence.
+soporific|adjective|Tending to make you sleepy.
+spurious|adjective|False or fake, though seeming genuine.
+stoic|adjective|Enduring pain or hardship without complaining.
+strident|adjective|Loud and harsh; presenting a point forcefully.
+stymie|verb|To prevent or slow the progress of something.
+supercilious|adjective|Behaving as if you think you are better than others.
+superfluous|adjective|More than is needed; unnecessary.
+surreptitious|adjective|Done secretly to avoid notice.
+sycophant|noun|A person who flatters important people to gain an advantage.
+taciturn|adjective|Saying very little; reserved.
+tantamount|adjective|Equivalent in effect or seriousness.
+temerity|noun|Excessive confidence or boldness.
+tenuous|adjective|Very weak or slight.
+torpid|adjective|Slow and lacking energy.
+tractable|adjective|Easy to control or influence.
+transient|adjective|Lasting only a short time.
+trenchant|adjective|Sharp and forceful in expressing criticism or ideas.
+truculent|adjective|Eager to argue or fight; aggressively defiant.
+turgid|adjective|Swollen; also pompous and boring in style.
+ubiquitous|adjective|Found everywhere.
+umbrage|noun|Offense or annoyance.
+unctuous|adjective|Excessively flattering in an insincere way.
+upbraid|verb|To scold someone severely.
+usurp|verb|To take a position of power illegally or by force.
+vacillate|verb|To keep changing your mind.
+vapid|adjective|Offering nothing stimulating; dull.
+venerable|adjective|Respected because of age, wisdom, or character.
+veracity|noun|Truthfulness.
+verbose|adjective|Using more words than needed.
+vexation|noun|The state of being annoyed or worried.
+vicarious|adjective|Experienced through another person's actions.
+vicissitude|noun|A change of circumstances, usually for the worse.
+vilify|verb|To speak about someone in an abusively negative way.
+vindicate|verb|To clear someone of blame or show they were right.
+vindictive|adjective|Wanting to harm someone who has harmed you.
+virulent|adjective|Extremely harmful or hostile.
+vitriolic|adjective|Filled with bitter criticism or hatred.
+vociferous|adjective|Expressing opinions loudly and forcefully.
+voracious|adjective|Wanting or devouring great amounts of food or something else.
+waggish|adjective|Humorous in a playful, mischievous way.
+wanton|adjective|Deliberate and unprovoked, especially of cruelty or damage.
+winsome|adjective|Attractive and charming in an innocent way.
+wizened|adjective|Shriveled or wrinkled with age.
+xenophobia|noun|Dislike or fear of people from other countries.
+zealot|noun|A person who is fanatical about their beliefs.

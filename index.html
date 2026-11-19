@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Hangman</title>
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 120 120'%3E%3Crect width='120' height='120' rx='28' fill='%2314201B'/%3E%3Cpath d='M24 98H70M36 98V26H82M36 42L52 26M82 26V42' fill='none' stroke='%23F2EFE6' stroke-width='7' stroke-linecap='round' stroke-linejoin='round'/%3E%3Crect x='66' y='42' width='32' height='36' rx='6' fill='%23F2B33D'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="site-header">
+    <a href="index.html" class="brand" aria-label="Hangman home">
+      <svg class="brand-mark" viewBox="0 0 120 120" aria-hidden="true">
+        <path d="M16 106 H76 M32 106 V16 H86 M32 36 L52 16 M86 16 V38" class="gallows"/>
+        <rect x="68" y="38" width="36" height="40" rx="7" class="tile"/>
+        <text x="86" y="67" text-anchor="middle" class="tile-letter">A</text>
+      </svg>
+      <span class="wordmark" aria-hidden="true">
+        <span>H</span><span>A</span><span>N</span><span>G</span><span>M</span><span class="blank">A</span><span>N</span>
+      </span>
+    </a>
+  </header>
+
+  <main>
+    <div class="toolbar">
+      <div class="difficulty" role="group" aria-label="Difficulty">
+        <span class="label">Difficulty</span>
+        <div class="segmented">
+          <button type="button" data-level="easy" aria-pressed="true">Easy</button>
+          <button type="button" data-level="medium" aria-pressed="false">Medium</button>
+          <button type="button" data-level="hard" aria-pressed="false">Hard</button>
+        </div>
+      </div>
+      <button id="new-game" class="btn-outline">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 12a8 8 0 1 0 2.4-5.7M4 4v4h4"/></svg>
+        New game
+      </button>
+    </div>
+
+    <section class="board">
+      <div class="stats">
+        <div class="stats-wrong">
+          <span class="label">Wrong guesses</span>
+          <div id="pips" class="pips" aria-hidden="true"></div>
+          <span id="wrong-text" class="muted"></span>
+        </div>
+        <div class="stats-left">
+          <span id="remaining" class="big-number">0</span>
+          <span class="muted">guesses left</span>
+        </div>
+      </div>
+
+      <p id="word" class="word" aria-live="polite"></p>
+
+      <div class="hint-area">
+        <button id="hint-btn" class="btn-hint" aria-expanded="false" aria-controls="hint-panel">
+          <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M9 18h6M10 21h4M12 3a6 6 0 0 0-3.5 10.9c.6.5 1 1.2 1 2.1h5c0-.9.4-1.6 1-2.1A6 6 0 0 0 12 3z"/></svg>
+          <span id="hint-label">Show hint</span>
+        </button>
+        <div id="hint-panel" class="hint-panel" hidden>
+          <div class="hint-chips">
+            <span class="chip"><span class="chip-label">Part of speech</span> <strong id="hint-pos"></strong></span>
+            <span class="chip"><span class="chip-label">First letter</span> <strong id="hint-first" class="mono"></strong></span>
+          </div>
+          <span class="hint-note">Hints are free. Use them as often as you like.</span>
+        </div>
+      </div>
+
+      <div id="message" class="message" role="status" hidden></div>
+
+      <div id="letters" class="letters" role="group" aria-label="Letters"></div>
+    </section>
+  </main>
+
+  <script src="words.js"></script>
+  <script src="game.js"></script>
+</body>
+</html>

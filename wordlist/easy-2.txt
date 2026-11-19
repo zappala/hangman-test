@@ -1,0 +1,296 @@
+# Easy: everyday words (part 2). Format: word|part of speech|definition
+airplane|noun|A vehicle with wings and engines that flies through the air.
+airport|noun|A place where airplanes take off and land.
+alarm|noun|A loud sound that warns people of danger or wakes them up.
+angry|adjective|Feeling strong displeasure about something.
+ankle|noun|The joint that connects your foot to your leg.
+apron|noun|A piece of cloth worn over the front of clothes to keep them clean.
+arrow|noun|A thin stick with a sharp point that is shot from a bow; also a sign that points.
+artist|noun|A person who paints, draws, or makes other works of art.
+asleep|adjective|Sleeping.
+attic|noun|A room or space just under the roof of a house.
+aunt|noun|The sister of your mother or father, or your uncle's wife.
+backpack|noun|A bag carried on your back with straps over the shoulders.
+bacon|noun|Salted or smoked meat from the back or sides of a pig.
+badge|noun|A small sign or pin worn to show who you are or what you have done.
+bake|verb|To cook food in an oven using dry heat.
+ball|noun|A round object that is thrown, kicked, or hit in games.
+band|noun|A group of musicians who play together.
+barn|noun|A large farm building for storing hay or keeping animals.
+baseball|noun|A game played with a bat and ball by two teams of nine players.
+bath|noun|A wash of the whole body in a tub of water.
+battery|noun|A device that stores electricity and provides power.
+bean|noun|A seed or pod of certain plants, eaten as a vegetable.
+bear|noun|A large, heavy animal with thick fur.
+beard|noun|Hair that grows on a man's chin and cheeks.
+beautiful|adjective|Very pleasing to look at or hear.
+bedtime|noun|The time when someone usually goes to bed.
+beetle|noun|An insect with hard, shiny wing covers.
+bell|noun|A hollow metal object that rings when struck.
+belt|noun|A strip of leather or cloth worn around the waist.
+bench|noun|A long seat for two or more people.
+berry|noun|A small, juicy fruit with seeds, such as a strawberry.
+bird|noun|An animal with feathers, wings, and a beak.
+biscuit|noun|A small baked bread or cracker.
+blink|verb|To shut and open your eyes quickly.
+blossom|noun|A flower on a tree or bush.
+board|noun|A long, flat piece of wood.
+boat|noun|A small vehicle that travels on water.
+body|noun|The whole physical structure of a person or animal.
+bone|noun|One of the hard white parts that make up the skeleton.
+book|noun|A set of printed pages fastened together inside a cover.
+boots|noun|Strong shoes that cover the foot and ankle, and sometimes the leg.
+bowl|noun|A round, deep dish used for food such as soup or cereal.
+brain|noun|The organ inside your head that controls thought and feeling.
+branch|noun|A part of a tree that grows out from the trunk.
+breeze|noun|A light, gentle wind.
+brick|noun|A block of baked clay used for building walls.
+bright|adjective|Giving out or full of a lot of light.
+broom|noun|A brush with a long handle, used for sweeping floors.
+brown|adjective|Having the color of soil or chocolate.
+brush|noun|A tool with bristles, used for cleaning, painting, or tidying hair.
+bubble|noun|A thin ball of liquid filled with air or gas.
+bunny|noun|A child's word for a rabbit.
+burger|noun|A flat, round cake of ground meat served in a bun.
+busy|adjective|Having a lot to do.
+cake|noun|A sweet baked food made from flour, eggs, and sugar.
+calendar|noun|A chart that shows the days, weeks, and months of a year.
+camel|noun|A large desert animal with one or two humps on its back.
+camp|verb|To stay outdoors in a tent for a time.
+canoe|noun|A narrow, light boat moved with paddles.
+captain|noun|The person in charge of a ship, plane, or team.
+card|noun|A piece of stiff paper, often with a picture or message on it.
+careful|adjective|Taking care to avoid mistakes or danger.
+carry|verb|To hold something and take it from one place to another.
+cereal|noun|A breakfast food made from grain, often eaten with milk.
+chalk|noun|A soft white stick used for writing on a blackboard.
+cheap|adjective|Costing little money.
+cheek|noun|The side of the face below the eye.
+chess|noun|A board game for two players in which pieces are moved to trap the king.
+chimney|noun|A tall pipe that carries smoke away from a fire up through the roof.
+chin|noun|The part of the face below the mouth.
+chocolate|noun|A sweet brown food made from roasted cocoa beans.
+church|noun|A building where Christians go to worship.
+clever|adjective|Quick to learn and understand.
+climb|verb|To go up something using your hands and feet.
+closet|noun|A small room or cupboard for storing clothes or other things.
+clothes|noun|Things you wear, such as shirts, pants, and dresses.
+clown|noun|A performer with a painted face and funny clothes who makes people laugh.
+coat|noun|A piece of clothing with sleeves, worn over other clothes to keep warm.
+cold|adjective|Having a low temperature.
+color|noun|The quality, such as red or blue, that the eye sees in light reflected from things.
+comb|noun|A flat tool with a row of teeth, used to tidy hair.
+computer|noun|An electronic machine that stores and processes information.
+cook|verb|To prepare food by heating it.
+corn|noun|A tall plant with ears of yellow kernels that are eaten.
+couch|noun|A long, soft seat for more than one person; a sofa.
+cowboy|noun|A man who rides a horse and looks after cattle.
+crab|noun|A sea animal with a hard shell, ten legs, and two big claws.
+crowd|noun|A large number of people gathered together.
+crown|noun|A circle of gold or jewels worn on the head by a king or queen.
+cupcake|noun|A small cake baked in a cup-shaped paper or tin.
+dark|adjective|With little or no light.
+deer|noun|A fast, graceful animal; the males often have antlers.
+dentist|noun|A doctor who takes care of teeth.
+dessert|noun|A sweet food eaten at the end of a meal.
+diamond|noun|A very hard, clear, precious stone.
+dirty|adjective|Covered with dirt or stains; not clean.
+dish|noun|A plate or bowl for food.
+dolphin|noun|A smart sea animal with a long snout that breathes air.
+dragonfly|noun|A flying insect with a long thin body and two pairs of clear wings.
+drawer|noun|A box that slides in and out of a piece of furniture.
+drawing|noun|A picture made with a pencil, pen, or crayon.
+drum|noun|A musical instrument you play by hitting it.
+dust|noun|Fine, dry powder of dirt.
+eight|noun|The number that is one more than seven.
+envelope|noun|A paper cover that a letter is put into before mailing.
+eraser|noun|A small rubber object used to rub out pencil marks.
+face|noun|The front part of the head, with the eyes, nose, and mouth.
+fairy|noun|A tiny magical creature with wings, found in stories.
+fall|verb|To drop down toward the ground.
+farm|noun|Land used for growing crops and raising animals.
+fast|adjective|Moving or able to move quickly.
+fever|noun|A body temperature that is higher than normal, a sign of illness.
+field|noun|An open area of land, often used for crops or sports.
+fire|noun|The heat, light, and flames made when something burns.
+fish|noun|An animal that lives in water and breathes through gills.
+flag|noun|A piece of cloth with a pattern that stands for a country or group.
+float|verb|To rest or move on the surface of water or in the air without sinking.
+floor|noun|The surface of a room that you walk on.
+flour|noun|A powder made from ground grain, used for baking.
+football|noun|A team game played with a ball that is kicked or carried.
+fountain|noun|A structure that shoots water up into the air.
+friendly|adjective|Kind and pleasant to others.
+fridge|noun|A cold cabinet for keeping food fresh; a refrigerator.
+garage|noun|A building where a car is kept.
+ghost|noun|The spirit of a dead person that some believe can appear to the living.
+gift|noun|Something given to someone without payment; a present.
+glue|noun|A sticky substance used to join things together.
+goat|noun|A farm animal with horns and a short tail, raised for milk and meat.
+gold|noun|A valuable shiny yellow metal.
+goose|noun|A large water bird with a long neck, like a big duck.
+gorilla|noun|The largest kind of ape, from the forests of Africa.
+grandma|noun|An informal word for a grandmother.
+grandpa|noun|An informal word for a grandfather.
+gray|adjective|Having a color between black and white.
+ground|noun|The surface of the Earth.
+grow|verb|To become bigger or taller.
+hair|noun|The thin threads that grow on the head and body.
+hand|noun|The part of the body at the end of the arm, with fingers and a thumb.
+handle|noun|The part of an object that you hold it by.
+heart|noun|The organ in your chest that pumps blood around your body.
+heavy|adjective|Weighing a lot; hard to lift.
+hello|noun|A greeting said when you meet someone.
+helper|noun|A person who helps someone else.
+hiccup|noun|A sudden, sharp sound in the throat that happens again and again.
+hide|verb|To put or keep something out of sight.
+highway|noun|A main road for fast travel between cities.
+hill|noun|A raised area of land, smaller than a mountain.
+hockey|noun|A team game played on ice or a field with sticks and a puck or ball.
+holiday|noun|A day of celebration when many people do not work or go to school.
+home|noun|The place where you live.
+homework|noun|Schoolwork that students do at home.
+hotel|noun|A building where travelers pay to stay overnight.
+hour|noun|A unit of time equal to sixty minutes.
+igloo|noun|A dome-shaped shelter built from blocks of snow.
+insect|noun|A small creature with six legs and a body in three parts.
+iron|noun|A strong, hard metal; also a device heated to press clothes.
+jeans|noun|Pants made of a strong blue cotton cloth.
+jump|verb|To push yourself off the ground into the air with your legs.
+kangaroo|noun|An Australian animal that hops on strong back legs and carries its young in a pouch.
+kettle|noun|A pot with a spout and handle, used for boiling water.
+kick|verb|To hit something with your foot.
+king|noun|A man who rules a country, usually because he was born into the royal family.
+kite|noun|A light frame covered with paper or cloth that flies in the wind on a string.
+knee|noun|The joint in the middle of your leg where it bends.
+knife|noun|A tool with a sharp blade, used for cutting.
+lake|noun|A large area of water surrounded by land.
+lamp|noun|A device that gives light.
+lazy|adjective|Not wanting to work or be active.
+leaf|noun|One of the flat, green parts of a plant that grow from a stem.
+lettuce|noun|A plant with large green leaves, eaten raw in salads.
+light|noun|The brightness that lets us see, as from the sun or a lamp.
+lizard|noun|A small reptile with four legs, a long tail, and scaly skin.
+lock|noun|A device that keeps a door or box closed until opened with a key.
+lollipop|noun|A hard candy on a stick.
+loud|adjective|Making a lot of noise.
+lucky|adjective|Having good things happen by chance.
+mailbox|noun|A box where letters are delivered or posted.
+mango|noun|A sweet tropical fruit with orange flesh and a large flat seed.
+marble|noun|A small glass ball used in games; also a smooth, hard stone.
+meal|noun|The food eaten at one time, such as breakfast or dinner.
+medicine|noun|A substance taken to treat or prevent illness.
+mitten|noun|A glove with one part for the thumb and one part for the four fingers.
+mouse|noun|A small furry animal with a long tail; also a device that moves a pointer on a computer.
+mouth|noun|The opening in the face used for eating and speaking.
+movie|noun|A story told with moving pictures, shown on a screen.
+muffin|noun|A small, round, sweet bread.
+museum|noun|A building where interesting or valuable objects are shown to the public.
+nail|noun|A thin metal spike hammered into wood; also the hard tip on a finger or toe.
+neck|noun|The part of the body that joins the head to the shoulders.
+needle|noun|A thin, pointed piece of metal with a hole, used for sewing.
+neighbor|noun|A person who lives near you.
+nest|noun|A home built by a bird for its eggs and young.
+night|noun|The time when it is dark, between evening and morning.
+noodle|noun|A long, thin strip of pasta or dough.
+nose|noun|The part of the face used for smelling and breathing.
+notebook|noun|A book of blank pages for writing notes.
+nurse|noun|A person trained to care for sick or injured people.
+octopus|noun|A sea animal with a soft body and eight long arms.
+oven|noun|A closed box that is heated for baking or roasting food.
+pajamas|noun|Loose clothes worn for sleeping.
+pancake|noun|A thin, flat cake cooked in a pan.
+panda|noun|A large black-and-white bear from China that eats bamboo.
+pants|noun|A piece of clothing that covers each leg separately.
+parrot|noun|A brightly colored tropical bird that can copy sounds.
+pasta|noun|Food made from flour and water dough, such as spaghetti.
+peanut|noun|A small nut that grows in a pod under the ground.
+pear|noun|A sweet fruit that is narrow at the top and round at the bottom.
+penguin|noun|A black-and-white sea bird that cannot fly but swims well.
+pepper|noun|A hot-tasting spice; also a hollow vegetable that can be red, green, or yellow.
+piano|noun|A large musical instrument played by pressing black and white keys.
+picnic|noun|A meal eaten outdoors.
+picture|noun|A painting, drawing, or photograph.
+pirate|noun|A person who attacks and robs ships at sea.
+plant|noun|A living thing that grows in the ground, such as a tree or flower.
+playground|noun|An outdoor area with swings and slides where children play.
+police|noun|The people whose job is to keep order and make people obey the law.
+pond|noun|A small area of still water.
+popcorn|noun|Corn kernels heated until they burst open into white puffs.
+postcard|noun|A card for sending a message by mail without an envelope.
+prince|noun|A son of a king or queen.
+princess|noun|A daughter of a king or queen.
+pumpkin|noun|A large, round orange vegetable with a thick rind.
+queen|noun|A woman who rules a country, or the wife of a king.
+question|noun|A sentence that asks for information.
+race|noun|A contest to see who is fastest.
+radio|noun|A device that receives sound broadcasts.
+rainy|adjective|Having a lot of rain.
+read|verb|To look at and understand written words.
+ribbon|noun|A long, narrow strip of cloth used for tying or decorating.
+rice|noun|Small white or brown grains from a grass plant, cooked and eaten.
+ring|noun|A small circle of metal worn on a finger.
+rope|noun|A strong, thick cord made of twisted strands.
+rose|noun|A sweet-smelling flower that grows on a bush with thorns.
+ruler|noun|A straight strip of wood or plastic used for measuring; also a person who rules.
+sailor|noun|A person who works on a ship.
+sand|noun|Tiny grains of rock found on beaches and in deserts.
+scarf|noun|A long piece of cloth worn around the neck.
+scooter|noun|A small vehicle with two wheels and a handlebar, pushed along with one foot.
+seed|noun|A small part of a plant from which a new plant grows.
+shark|noun|A large fish with sharp teeth that lives in the sea.
+shell|noun|A hard outer covering of an egg, nut, or sea animal.
+shop|noun|A building or room where things are sold; a store.
+shower|noun|A spray of water you stand under to wash; also a short fall of rain.
+silver|noun|A shiny, gray-white precious metal.
+sing|verb|To make music with your voice.
+skate|verb|To glide on ice or the ground wearing skates.
+skirt|noun|A piece of clothing that hangs from the waist.
+slide|noun|A smooth slope for children to slide down at a playground.
+slow|adjective|Not moving quickly.
+small|adjective|Little in size.
+smell|verb|To notice something using your nose.
+snack|noun|A small amount of food eaten between meals.
+soccer|noun|A team game in which players kick a ball into a goal.
+soft|adjective|Not hard; easy to press or shape.
+soup|noun|A liquid food made by boiling meat, fish, or vegetables.
+squirrel|noun|A small animal with a bushy tail that lives in trees.
+stairs|noun|A set of steps going from one floor to another.
+stamp|noun|A small sticker put on a letter to show the postage has been paid.
+stove|noun|A device for cooking food, with burners on top.
+strawberry|noun|A soft, sweet red fruit with tiny seeds on its surface.
+student|noun|A person who is studying at a school or college.
+sweater|noun|A warm knitted piece of clothing for the upper body.
+swim|verb|To move through water using your arms and legs.
+swing|noun|A seat hanging from ropes or chains that moves back and forth.
+taxi|noun|A car with a driver that you pay to take you somewhere.
+teapot|noun|A pot with a spout and handle, used for making and pouring tea.
+teddy|noun|A soft toy bear.
+telephone|noun|A device used to talk to someone far away.
+tent|noun|A shelter made of cloth held up by poles.
+thumb|noun|The short, thick finger at the side of the hand.
+ticket|noun|A piece of paper that shows you have paid to enter or travel.
+tired|adjective|Needing rest or sleep.
+toilet|noun|A bowl connected to a drain, used for getting rid of body waste.
+tongue|noun|The soft, movable part in your mouth used for tasting and talking.
+toothbrush|noun|A small brush for cleaning your teeth.
+town|noun|A place with many houses and buildings, smaller than a city.
+tractor|noun|A powerful farm vehicle used to pull heavy loads.
+turkey|noun|A large bird raised for its meat.
+twins|noun|Two children born to the same mother at the same time.
+vacation|noun|A period of time spent away from work or school for rest or travel.
+vegetable|noun|A plant or part of a plant eaten as food, such as a carrot or bean.
+wash|verb|To clean something with water and often soap.
+watch|noun|A small clock worn on the wrist.
+watermelon|noun|A large fruit with a green rind and juicy red flesh.
+wave|noun|A moving ridge of water on the sea; also a movement of the hand to say hello.
+whistle|noun|A small device that makes a high sound when you blow into it.
+wind|noun|Air that moves across the Earth.
+wing|noun|One of the parts of a bird, insect, or plane used for flying.
+wolf|noun|A wild animal like a large dog that lives and hunts in packs.
+wood|noun|The hard material that trees are made of.
+world|noun|The Earth and all the people and things on it.
+write|verb|To put letters or words on paper or a screen.
+yard|noun|An area of ground next to a house.
+yogurt|noun|A thick, creamy food made from milk.
+zipper|noun|A fastener with two rows of teeth that lock together when pulled.

@@ -1,0 +1,276 @@
+# Easy: everyday words (part 3). Format: word|part of speech|definition
+about|adverb|Nearly; approximately.
+above|adverb|In or to a higher place.
+accept|verb|To agree to take something that is offered.
+across|adverb|From one side to the other.
+action|noun|The process of doing something.
+address|noun|The details of where someone lives or where a building is.
+adult|noun|A fully grown person.
+afraid|adjective|Feeling fear.
+again|adverb|One more time.
+agree|verb|To have the same opinion as someone else.
+alive|adjective|Living; not dead.
+alone|adjective|Without other people.
+always|adverb|At all times; every time.
+amazing|adjective|Causing great surprise or wonder.
+arrive|verb|To reach a place at the end of a journey.
+awake|adjective|Not sleeping.
+away|adverb|To or at a distance from a place.
+basement|noun|A room or floor of a building below ground level.
+beauty|noun|The quality of being pleasing to look at.
+become|verb|To begin to be something.
+before|adverb|At an earlier time.
+begin|verb|To start doing something.
+behind|adverb|At or toward the back.
+believe|verb|To think that something is true.
+belong|verb|To be owned by someone or to be part of a group.
+better|adjective|Of a higher quality; more good.
+borrow|verb|To take something to use for a while and then give it back.
+bottom|noun|The lowest part of something.
+bounce|verb|To spring back after hitting a surface.
+break|verb|To separate into pieces or stop working, often by force.
+breathe|verb|To take air into your lungs and let it out.
+bring|verb|To take something or someone with you to a place.
+build|verb|To make something by putting parts together.
+burn|verb|To be on fire or to damage with fire or heat.
+calm|adjective|Peaceful and not excited or worried.
+catch|verb|To take hold of something that is moving through the air.
+cause|noun|Something that makes something else happen.
+center|noun|The middle point or part of something.
+change|verb|To make or become different.
+chase|verb|To run after someone or something to catch it.
+cheer|verb|To shout to show support or happiness.
+choose|verb|To pick from a number of things.
+clap|verb|To hit your hands together to make a sound, often to show you liked something.
+close|verb|To shut something.
+cloudy|adjective|Covered with clouds.
+collect|verb|To gather things together.
+comfortable|adjective|Pleasant to wear or be in; giving a feeling of ease.
+count|verb|To find the total number of things.
+cover|verb|To put something over something else.
+crash|noun|A violent collision, or a sudden loud noise.
+crawl|verb|To move along on your hands and knees.
+crazy|adjective|Very strange or foolish.
+cross|verb|To go from one side of something to the other.
+crunchy|adjective|Making a sharp sound when bitten or crushed.
+cute|adjective|Pretty and charming, often in a small or young way.
+danger|noun|The chance of being harmed.
+decide|verb|To make up your mind about something.
+deep|adjective|Going a long way down from the top.
+different|adjective|Not the same.
+difficult|adjective|Hard to do or understand.
+dinosaur|noun|A large reptile that lived millions of years ago.
+discover|verb|To find something for the first time.
+divide|verb|To split into parts.
+double|adjective|Twice as much or as many.
+during|adverb|Throughout or at some point in a period of time.
+each|adjective|Every one of two or more things considered separately.
+edge|noun|The outside border or line of something.
+enjoy|verb|To get pleasure from something.
+enough|adjective|As much as is needed.
+enter|verb|To come or go into a place.
+escape|verb|To get free from a place or danger.
+every|adjective|All of a group, without exception.
+exact|adjective|Completely correct in every detail.
+excited|adjective|Very happy and eager about something.
+explain|verb|To make something clear or easy to understand.
+explore|verb|To travel through a place to learn about it.
+fair|adjective|Treating people equally and reasonably.
+famous|adjective|Known by many people.
+favorite|adjective|Liked more than all others.
+fear|noun|An unpleasant feeling that something bad may happen.
+feel|verb|To be aware of something by touching it, or to have an emotion.
+fight|verb|To use force against someone.
+fill|verb|To make something full.
+find|verb|To discover something you were looking for.
+finish|verb|To come to the end of something.
+first|adjective|Coming before all others.
+flat|adjective|Smooth and level, without bumps.
+follow|verb|To go or come after someone or something.
+fresh|adjective|Newly made or picked; not old or stale.
+full|adjective|Holding as much as possible.
+gather|verb|To bring things or people together.
+gentle|adjective|Kind and calm; not rough or harsh.
+giant|noun|A huge person in stories; anything very large.
+giggle|verb|To laugh in a silly, nervous way.
+give|verb|To hand something to someone.
+glad|adjective|Pleased and happy.
+golden|adjective|Made of gold or having its color.
+good|adjective|Of high quality; pleasing or right.
+grab|verb|To take hold of something quickly and roughly.
+great|adjective|Very large or very good.
+greedy|adjective|Wanting more than you need, especially of food or money.
+guess|verb|To give an answer without knowing for sure.
+guest|noun|A person who is invited to visit.
+half|noun|One of two equal parts of something.
+hang|verb|To attach something at the top so it hangs down.
+harvest|noun|The time when crops are gathered, or the crops gathered.
+healthy|adjective|Strong and well; not sick.
+hear|verb|To take in sounds with your ears.
+help|verb|To make it easier for someone to do something.
+hero|noun|A person admired for bravery or good deeds.
+high|adjective|Far above the ground.
+hold|verb|To have something in your hands or arms.
+honest|adjective|Telling the truth; not cheating.
+hope|verb|To want something to happen and think it might.
+huge|adjective|Very large.
+hurry|verb|To move or do something quickly.
+idea|noun|A thought or plan formed in the mind.
+important|adjective|Having great value or meaning.
+inside|adverb|In or into the inner part of something.
+invite|verb|To ask someone to come to an event or place.
+join|verb|To connect things, or to become a member of a group.
+journey|noun|A trip from one place to another.
+kind|adjective|Friendly, caring, and helpful.
+kiss|verb|To touch someone with your lips as a sign of love or greeting.
+knock|verb|To hit a door with your knuckles to get attention.
+know|verb|To have information in your mind.
+large|adjective|Big in size.
+last|adjective|Coming after all others.
+late|adjective|Happening after the expected time.
+learn|verb|To gain knowledge or skill.
+leave|verb|To go away from a place.
+lift|verb|To raise something to a higher position.
+like|verb|To enjoy or find pleasant.
+live|verb|To be alive, or to have your home somewhere.
+lonely|adjective|Sad because you are alone.
+long|adjective|Measuring a great distance from end to end.
+look|verb|To turn your eyes toward something to see it.
+lose|verb|To be unable to find something, or to fail to win.
+love|noun|A strong feeling of caring for someone.
+lovely|adjective|Very beautiful or pleasant.
+magic|noun|The power, in stories, to make impossible things happen.
+make|verb|To create or produce something.
+messy|adjective|Untidy or dirty.
+middle|noun|The point or part that is in the center.
+mistake|noun|Something done wrongly.
+move|verb|To go from one place or position to another.
+narrow|adjective|Small from one side to the other.
+near|adverb|Not far away.
+need|verb|To require something.
+never|adverb|At no time.
+noisy|adjective|Making a lot of noise.
+open|verb|To move something so it is no longer closed.
+outside|adverb|Not in a building; in the open air.
+pack|verb|To put things into a bag or box.
+paddle|noun|A short pole with a wide flat end, used to move a small boat.
+pass|verb|To move past something, or to give something to someone.
+patient|adjective|Able to wait calmly without getting annoyed.
+peace|noun|A time with no war or fighting; calm and quiet.
+pick|verb|To choose, or to pull a flower or fruit from a plant.
+place|noun|A particular area or location.
+play|verb|To take part in a game or have fun.
+please|adverb|A polite word used when asking for something.
+plenty|noun|A large amount; more than enough.
+point|verb|To show where something is with your finger.
+polite|adjective|Having good manners.
+poor|adjective|Having little money.
+pour|verb|To make a liquid flow from a container.
+prize|noun|Something given to the winner of a contest.
+promise|verb|To say you will definitely do something.
+proud|adjective|Pleased about something you or someone close to you has done.
+pull|verb|To move something toward you.
+push|verb|To move something away from you.
+quick|adjective|Moving fast or done in a short time.
+ready|adjective|Prepared to do something.
+real|adjective|Actually existing; not imaginary.
+remember|verb|To bring something back to mind.
+rest|verb|To relax or sleep after activity.
+rich|adjective|Having a lot of money.
+ride|verb|To sit on and control a bike or horse, or travel in a vehicle.
+right|adjective|Correct; also the side opposite the left.
+rough|adjective|Having an uneven surface; not smooth.
+round|adjective|Shaped like a circle or ball.
+safe|adjective|Protected from danger.
+same|adjective|Exactly like another; not different.
+save|verb|To keep someone from harm, or to keep something for later.
+scary|adjective|Frightening.
+search|verb|To look carefully for something.
+secret|noun|Something kept hidden from others.
+share|verb|To let others use or have part of something.
+sharp|adjective|Having a fine edge or point that can cut.
+shine|verb|To give off or reflect light.
+short|adjective|Small in length or height.
+shout|verb|To say something very loudly.
+show|verb|To let someone see something.
+sick|adjective|Ill; not well.
+silly|adjective|Foolish or playful in a funny way.
+simple|adjective|Easy to understand or do.
+sleepy|adjective|Ready to fall asleep.
+smart|adjective|Intelligent; quick to learn.
+smooth|adjective|Having an even surface, with no bumps.
+sneeze|verb|To push air suddenly out of your nose and mouth, often because of an itch in your nose.
+sour|adjective|Having a sharp taste like a lemon.
+speak|verb|To say words.
+special|adjective|Different from the usual; important in some way.
+spill|verb|To let liquid fall out of a container by accident.
+splash|verb|To make water fly up in drops.
+start|verb|To begin.
+stay|verb|To remain in the same place.
+sticky|adjective|Tending to stick to things.
+stop|verb|To no longer move or do something.
+strange|adjective|Unusual or surprising.
+strong|adjective|Having great power or force.
+sunny|adjective|Full of sunshine.
+surprise|noun|Something that happens unexpectedly.
+sweet|adjective|Tasting of sugar.
+talk|verb|To speak with someone.
+tall|adjective|Higher than average.
+taste|verb|To notice the flavor of food or drink in your mouth.
+thank|verb|To tell someone you are grateful.
+thick|adjective|Wide from one side to the other.
+thin|adjective|Not thick or wide; slim.
+think|verb|To use your mind to form ideas.
+thirsty|adjective|Needing something to drink.
+throw|verb|To send something through the air with your hand.
+tidy|adjective|Neat and in order.
+tiny|adjective|Very small.
+together|adverb|With each other.
+touch|verb|To feel something with your hand or another part of the body.
+trip|noun|A journey to a place and back.
+true|adjective|Correct; based on facts.
+trust|verb|To believe that someone is honest and will not harm you.
+ugly|adjective|Unpleasant to look at.
+under|adverb|Below or beneath something.
+understand|verb|To know what something means.
+useful|adjective|Helping you do something.
+visit|verb|To go to see a person or place.
+wait|verb|To stay until something happens.
+wake|verb|To stop sleeping.
+want|verb|To wish to have or do something.
+warm|adjective|Fairly hot; pleasantly hot.
+weak|adjective|Lacking strength.
+wide|adjective|Large from one side to the other.
+wild|adjective|Living in nature, not tamed or farmed.
+wish|verb|To want something that may not be possible.
+wonder|verb|To think about something with curiosity.
+work|verb|To do a job or task.
+worry|verb|To feel anxious about something.
+yell|verb|To shout loudly.
+young|adjective|Having lived for only a short time.
+zero|noun|The number 0; nothing.
+avoid|verb|To keep away from someone or something.
+innocent|adjective|Not guilty of a crime or wrongdoing.
+balance|noun|A steady position in which weight is evenly spread.
+damage|verb|To harm or break something.
+detail|noun|A small individual part or fact.
+doubt|noun|A feeling of not being sure.
+expert|noun|A person with great knowledge or skill in a subject.
+ignore|verb|To pay no attention to something.
+nervous|adjective|Worried and easily frightened.
+prevent|verb|To stop something from happening.
+rescue|verb|To save someone from danger.
+talent|noun|A natural ability to do something well.
+victory|noun|Success in a battle or contest.
+celebrate|verb|To do something enjoyable for a special occasion.
+curious|adjective|Eager to know or learn something.
+survive|verb|To continue to live despite danger or difficulty.
+mystery|noun|Something that is hard to explain or understand.
+obvious|adjective|Easy to see or understand.
+ordinary|adjective|Normal; not special.
+challenge|noun|A task that tests your ability.
+complain|verb|To say you are unhappy about something.
+compete|verb|To try to win against others.
+festival|noun|A special time of celebration, often with events and performances.
+athlete|noun|A person who is skilled at sports.
+visible|adjective|Able to be seen.

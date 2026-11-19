@@ -1,0 +1,224 @@
+# Easy: everyday words. Format: word|part of speech|definition
+apple|noun|A round fruit with red, green, or yellow skin and crisp white flesh.
+bridge|noun|A structure built to carry a road or path across a river, valley, or road.
+candle|noun|A stick of wax with a wick in the middle that is burned to give light.
+dragon|noun|A large, winged, fire-breathing creature from myths and stories.
+engine|noun|A machine that turns fuel or energy into motion.
+forest|noun|A large area of land covered thickly with trees.
+guitar|noun|A stringed musical instrument played by strumming or plucking.
+island|noun|A piece of land completely surrounded by water.
+jacket|noun|A short coat that reaches to about the hips.
+kitten|noun|A young cat.
+lemon|noun|A yellow citrus fruit with sour juice.
+mirror|noun|A glass surface that reflects a clear image of whatever is in front of it.
+napkin|noun|A small piece of cloth or paper used at meals to wipe your mouth and hands.
+orange|noun|A round, juicy citrus fruit with a thick orange skin.
+pencil|noun|A writing tool made of a thin stick of graphite inside wood.
+quiet|adjective|Making little or no noise.
+rocket|noun|A vehicle or device pushed forward by burning fuel, used to travel into space.
+sunset|noun|The time in the evening when the sun goes below the horizon.
+window|noun|An opening in a wall, usually filled with glass, that lets in light and air.
+brave|adjective|Ready to face danger or pain without showing fear.
+blanket|noun|A large piece of warm cloth used as a covering, especially on a bed.
+thunder|noun|The loud rumbling sound that follows a flash of lightning.
+puzzle|noun|A game, toy, or problem that tests your ingenuity or knowledge.
+animal|noun|A living creature that can move and feel, such as a dog, bird, or fish.
+answer|noun|Something said or written in reply to a question.
+autumn|noun|The season between summer and winter, when leaves fall from trees.
+baby|noun|A very young child.
+bakery|noun|A shop where bread and cakes are made or sold.
+balloon|noun|A small rubber bag that floats or stretches when filled with air or gas.
+banana|noun|A long curved fruit with a yellow skin and soft sweet flesh.
+basket|noun|A container made of woven strips, used for carrying or holding things.
+beach|noun|A strip of sand or pebbles at the edge of the sea or a lake.
+bedroom|noun|A room used for sleeping.
+bicycle|noun|A vehicle with two wheels that you ride by pushing pedals.
+birthday|noun|The day each year when you celebrate the date you were born.
+blue|adjective|Having the color of a clear sky.
+bottle|noun|A container with a narrow neck, used for holding liquids.
+bread|noun|A food made by baking a mixture of flour, water, and yeast.
+breakfast|noun|The first meal of the day, eaten in the morning.
+brother|noun|A boy or man who has the same parents as another person.
+bucket|noun|An open container with a handle, used for carrying water and other things.
+butter|noun|A soft yellow food made from cream, spread on bread or used in cooking.
+button|noun|A small round object sewn on clothes to fasten them, or a part you press on a machine.
+cabin|noun|A small, simple house, often made of wood.
+camera|noun|A device for taking photographs or recording video.
+candy|noun|A sweet food made with sugar.
+carpet|noun|A thick covering for a floor, made of wool or other fibers.
+carrot|noun|A long orange root vegetable.
+castle|noun|A large, strong building with thick walls and towers, built long ago for protection.
+chair|noun|A seat with a back, made for one person.
+cheese|noun|A food made from pressed milk curds.
+cherry|noun|A small, round, red fruit with a stone in the middle.
+chicken|noun|A farm bird kept for its eggs and meat.
+children|noun|Young people who are not yet adults; the plural of child.
+circle|noun|A perfectly round shape.
+city|noun|A large town where many people live and work.
+clean|adjective|Free from dirt or marks.
+clock|noun|A device that shows what time it is.
+cloud|noun|A white or gray mass of tiny water drops floating in the sky.
+coffee|noun|A hot drink made from roasted and ground beans.
+cookie|noun|A small, flat, sweet baked treat.
+corner|noun|The place where two sides or edges meet.
+cotton|noun|A soft white fiber from a plant, used to make cloth.
+country|noun|A nation with its own land and government.
+cousin|noun|A child of your aunt or uncle.
+cradle|noun|A small bed for a baby that can be rocked.
+crayon|noun|A stick of colored wax used for drawing.
+cupboard|noun|A piece of furniture or a small closet with shelves and doors.
+curtain|noun|A piece of cloth hung to cover a window.
+dance|verb|To move your body in time to music.
+daughter|noun|A person's female child.
+desert|noun|A large, dry area of land with very little rain.
+dinner|noun|The main meal of the day, usually eaten in the evening.
+doctor|noun|A person trained to treat sick or injured people.
+dollar|noun|A unit of money used in the United States and some other countries.
+donkey|noun|An animal like a small horse with long ears.
+door|noun|A movable panel used to open or close an entrance.
+dream|noun|Images and stories that you see in your mind while you sleep.
+dress|noun|A piece of clothing that covers the body and hangs down over the legs.
+drink|verb|To take liquid into your mouth and swallow it.
+duck|noun|A water bird with webbed feet and a wide, flat beak.
+eagle|noun|A large bird of prey with sharp eyes and strong wings.
+early|adjective|Happening before the usual or expected time.
+earth|noun|The planet we live on; also, the soil in which plants grow.
+easy|adjective|Not hard to do or understand.
+elbow|noun|The joint in the middle of your arm where it bends.
+elephant|noun|A very large gray animal with a long trunk and big ears.
+empty|adjective|Having nothing inside.
+evening|noun|The part of the day between afternoon and night.
+family|noun|A group of people related to one another, such as parents and children.
+farmer|noun|A person who grows crops or raises animals.
+father|noun|A male parent.
+feather|noun|One of the light, soft parts that cover a bird's body.
+fence|noun|A barrier of wood or wire around a yard or field.
+finger|noun|One of the five long parts at the end of your hand.
+flower|noun|The colorful part of a plant that produces seeds.
+forget|verb|To fail to remember something.
+fork|noun|A tool with points used for picking up food.
+friend|noun|A person you know well and like.
+frog|noun|A small, jumping animal with smooth skin that lives near water.
+fruit|noun|The sweet part of a plant that holds its seeds and can often be eaten.
+funny|adjective|Making you laugh.
+garden|noun|A piece of ground where flowers or vegetables are grown.
+giraffe|noun|A tall African animal with a very long neck and spotted coat.
+glass|noun|A hard, clear material used for windows; also a cup made of it.
+glove|noun|A covering for the hand with a separate part for each finger.
+grape|noun|A small, round, juicy fruit that grows in bunches on a vine.
+grass|noun|A common green plant with thin leaves that covers lawns and fields.
+green|adjective|Having the color of grass and leaves.
+hammer|noun|A tool with a heavy head, used for hitting nails.
+happy|adjective|Feeling pleased and glad.
+helmet|noun|A hard hat worn to protect the head.
+honey|noun|A sweet, sticky food made by bees.
+horse|noun|A large animal with hooves that people ride or use to pull things.
+hospital|noun|A building where sick or injured people are cared for.
+house|noun|A building where people live.
+hungry|adjective|Wanting or needing food.
+jelly|noun|A soft, sweet food made from fruit juice and sugar.
+juice|noun|The liquid that comes from fruit or vegetables.
+jungle|noun|A thick tropical forest with many plants and animals.
+kitchen|noun|A room where food is prepared and cooked.
+ladder|noun|A set of steps between two long sides, used for climbing.
+laugh|verb|To make sounds that show you think something is funny.
+letter|noun|A written message sent to someone; also a symbol of the alphabet.
+library|noun|A place where books are kept for people to read or borrow.
+lion|noun|A large, wild cat with a golden coat; the male has a mane.
+listen|verb|To pay attention in order to hear something.
+little|adjective|Small in size or amount.
+lunch|noun|A meal eaten in the middle of the day.
+magnet|noun|A piece of metal that pulls iron or steel toward it.
+market|noun|A place where people buy and sell goods.
+melon|noun|A large, round fruit with a hard rind and juicy flesh.
+milk|noun|A white liquid made by mothers and cows to feed their young, often drunk by people.
+minute|noun|A unit of time equal to sixty seconds.
+money|noun|Coins and paper notes used to buy things.
+monkey|noun|A playful animal with a long tail that climbs trees.
+moon|noun|The round object that circles the Earth and shines at night.
+morning|noun|The early part of the day, from sunrise until noon.
+mother|noun|A female parent.
+mountain|noun|A very high hill with steep sides.
+music|noun|Pleasant sounds made by voices or instruments.
+number|noun|A word or symbol that shows how many, such as 3 or seven.
+ocean|noun|A huge body of salt water that covers much of the Earth.
+office|noun|A room or building where people work at desks.
+onion|noun|A round vegetable with a strong smell and taste, made of layers.
+paint|noun|A colored liquid spread on surfaces to decorate or protect them.
+paper|noun|Thin material made from wood pulp, used for writing and printing.
+parent|noun|A mother or father.
+party|noun|A gathering where people meet to have fun and celebrate.
+peach|noun|A soft, round fruit with fuzzy skin and a large stone.
+pillow|noun|A soft cushion you rest your head on in bed.
+pizza|noun|A flat bread baked with toppings such as tomato sauce and cheese.
+planet|noun|A large round object in space that travels around a star.
+plate|noun|A flat dish that food is served on.
+pocket|noun|A small bag sewn into clothing for carrying things.
+potato|noun|A starchy vegetable that grows underground.
+present|noun|Something you give to someone; a gift.
+pretty|adjective|Pleasant to look at.
+puppy|noun|A young dog.
+purple|adjective|Having a color that is a mix of red and blue.
+rabbit|noun|A small animal with long ears and soft fur that hops.
+rain|noun|Water that falls from clouds in drops.
+rainbow|noun|An arch of colors in the sky, made when sunlight shines through rain.
+river|noun|A large stream of water that flows toward the sea.
+road|noun|A wide path for cars and other vehicles.
+robot|noun|A machine that can do tasks automatically.
+salad|noun|A dish of mixed raw vegetables, often with dressing.
+sandwich|noun|A food made of two slices of bread with a filling such as meat or cheese between them.
+school|noun|A place where children go to learn.
+scissors|noun|A cutting tool with two blades joined in the middle.
+season|noun|One of the four parts of the year: spring, summer, autumn, and winter.
+shadow|noun|A dark shape made when something blocks light.
+sheep|noun|A farm animal with a thick woolly coat.
+shirt|noun|A piece of clothing for the upper body, often with a collar and sleeves.
+shoe|noun|A covering for the foot, usually with a hard sole.
+sister|noun|A girl or woman who has the same parents as another person.
+sleep|verb|To rest with your eyes closed and your mind unconscious.
+smile|verb|To turn up the corners of your mouth to show you are happy.
+snake|noun|A long reptile with no legs.
+snow|noun|Soft white flakes of frozen water that fall from the sky.
+soap|noun|A substance used with water for washing and cleaning.
+sock|noun|A soft covering for the foot, worn inside a shoe.
+spider|noun|A small creature with eight legs that spins webs.
+spoon|noun|A tool with a small bowl at the end of a handle, used for eating and stirring.
+spring|noun|The season between winter and summer, when plants begin to grow.
+square|noun|A shape with four equal sides and four right angles.
+star|noun|A bright point of light in the night sky; a huge ball of burning gas.
+stone|noun|A small piece of rock.
+storm|noun|Bad weather with strong winds, rain, and often thunder.
+street|noun|A road in a town or city with buildings along it.
+sugar|noun|A sweet substance used to flavor food and drinks.
+summer|noun|The warmest season of the year, between spring and autumn.
+table|noun|A piece of furniture with a flat top and legs.
+teacher|noun|A person whose job is to help others learn.
+teeth|noun|The hard white parts in your mouth used for biting and chewing; plural of tooth.
+tiger|noun|A large wild cat with orange fur and black stripes.
+toast|noun|Bread that has been browned by heat.
+today|noun|This present day.
+tomato|noun|A soft, red, juicy fruit eaten as a vegetable.
+tooth|noun|One of the hard white parts in your mouth used for biting.
+towel|noun|A piece of cloth used for drying things, such as your body.
+tower|noun|A tall, narrow building or part of a building.
+train|noun|A line of connected railway cars pulled by an engine.
+travel|verb|To go from one place to another, often far away.
+tree|noun|A tall plant with a wooden trunk, branches, and leaves.
+truck|noun|A large vehicle for carrying goods.
+turtle|noun|A reptile with a hard shell that it can pull its head and legs into.
+umbrella|noun|A folding cover on a stick that protects you from rain.
+uncle|noun|The brother of your mother or father, or your aunt's husband.
+valley|noun|A low area of land between hills or mountains.
+village|noun|A small group of houses in the countryside, smaller than a town.
+violin|noun|A small wooden instrument with four strings, played with a bow.
+wagon|noun|A vehicle with four wheels, pulled by animals or by hand.
+walk|verb|To move along on foot at a normal pace.
+wallet|noun|A small, flat case for carrying money and cards.
+water|noun|The clear liquid that falls as rain and fills rivers, lakes, and seas.
+weather|noun|The conditions outside, such as sun, rain, wind, and temperature.
+whale|noun|A very large sea animal that breathes air through a hole on its head.
+wheel|noun|A round object that turns to help a vehicle move.
+winter|noun|The coldest season of the year, between autumn and spring.
+wizard|noun|A man in stories who has magic powers.
+yellow|adjective|Having the color of lemons or butter.
+zebra|noun|An African animal like a horse with black and white stripes.
